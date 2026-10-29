@@ -568,7 +568,7 @@ $text['label-inbound']['ro-ro'] = "Intrare";
 $text['label-inbound']['ru-ru'] = "Входящий";
 $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вхідний";
-$text['label-inbound']['zh-cn'] = "呼出";
+$text['label-inbound']['zh-cn'] = "呼入";
 $text['label-inbound']['ja-jp'] = "インバウンド";
 $text['label-inbound']['ko-kr'] = "인바운드";
 

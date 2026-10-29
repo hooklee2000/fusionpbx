@@ -1401,7 +1401,7 @@ $text['button-export']['sv-se'] = "Export";
 $text['button-export']['uk-ua'] = "Експортувати";
 $text['button-export']['tr-tr'] = "Dışa Aktar";
 $text['button-export']['el-gr'] = "Εξαγωγή εξαγωγών";
-$text['button-export']['zh-cn'] = "出口";
+$text['button-export']['zh-cn'] = "导出";
 $text['button-export']['ja-jp'] = "輸出";
 $text['button-export']['ko-kr'] = "내보내다";
 
@@ -1887,7 +1887,7 @@ $text['button-import']['ru-ru'] = "Импорт";
 $text['button-import']['sv-se'] = "Importera";
 $text['button-import']['uk-ua'] = "Імпорт";
 $text['button-import']['tr-tr'] = "İçe Aktar";
-$text['button-import']['zh-cn'] = "进口";
+$text['button-import']['zh-cn'] = "导入";
 $text['button-import']['ja-jp'] = "輸入";
 $text['button-import']['ko-kr'] = "수입";
 
@@ -2425,7 +2425,7 @@ $text['label-import']['ru-ru'] = "Импорт";
 $text['label-import']['sv-se'] = "Importera";
 $text['label-import']['uk-ua'] = "Імпорт";
 $text['label-import']['tr-tr'] = "İçe Aktar";
-$text['label-import']['zh-cn'] = "进口";
+$text['label-import']['zh-cn'] = "导入";
 $text['label-import']['ja-jp'] = "輸入";
 $text['label-import']['ko-kr'] = "수입";
 
@@ -2939,7 +2939,7 @@ $text['header-export']['ru-ru'] = "Экспорт";
 $text['header-export']['sv-se'] = "Export";
 $text['header-export']['uk-ua'] = "Експортувати";
 $text['header-export']['tr-tr'] = "Dışa Aktar";
-$text['header-export']['zh-cn'] = "出口";
+$text['header-export']['zh-cn'] = "导出";
 $text['header-export']['ja-jp'] = "輸出";
 $text['header-export']['ko-kr'] = "내보내다";
 

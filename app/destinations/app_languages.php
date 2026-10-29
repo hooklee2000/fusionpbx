@@ -131,7 +131,7 @@ $text['title-destination_import']['ru-ru'] = "Импорт";
 $text['title-destination_import']['sv-se'] = "Importera";
 $text['title-destination_import']['uk-ua'] = "Імпортувати";
 $text['title-destination_import']['tr-tr'] = "Hedef İçe Aktarma";
-$text['title-destination_import']['zh-cn'] = "目的地进口";
+$text['title-destination_import']['zh-cn'] = "目的地导入";
 $text['title-destination_import']['ja-jp'] = "宛先インポート";
 $text['title-destination_import']['ko-kr'] = "대상 가져오기";
 
@@ -159,7 +159,7 @@ $text['title-destination_export']['ru-ru'] = "Экспорт";
 $text['title-destination_export']['sv-se'] = "Export";
 $text['title-destination_export']['uk-ua'] = "Експортувати";
 $text['title-destination_export']['tr-tr'] = "Hedef Dışa Aktarma";
-$text['title-destination_export']['zh-cn'] = "目的地出口";
+$text['title-destination_export']['zh-cn'] = "目的地导出";
 $text['title-destination_export']['ja-jp'] = "宛先エクスポート";
 $text['title-destination_export']['ko-kr'] = "대상 내보내기";
 
@@ -267,7 +267,7 @@ $text['button-inbound']['ru-ru'] = "Входящий";
 $text['button-inbound']['sv-se'] = "Inkommande";
 $text['button-inbound']['uk-ua'] = "Вхідний";
 $text['button-inbound']['tr-tr'] = "Gelen";
-$text['button-inbound']['zh-cn'] = "呼出";
+$text['button-inbound']['zh-cn'] = "呼入";
 $text['button-inbound']['ja-jp'] = "インバウンド";
 $text['button-inbound']['ko-kr'] = "인바운드";
 
@@ -321,7 +321,7 @@ $text['option-inbound']['ru-ru'] = "Входящий";
 $text['option-inbound']['sv-se'] = "Inkommande";
 $text['option-inbound']['uk-ua'] = "Вхідний";
 $text['option-inbound']['tr-tr'] = "Gelen";
-$text['option-inbound']['zh-cn'] = "呼出";
+$text['option-inbound']['zh-cn'] = "呼入";
 $text['option-inbound']['ja-jp'] = "インバウンド";
 $text['option-inbound']['ko-kr'] = "인바운드";
 
@@ -1590,7 +1590,7 @@ $text['header-destination_import']['ru-ru'] = "Импорт";
 $text['header-destination_import']['sv-se'] = "Importera";
 $text['header-destination_import']['uk-ua'] = "Імпортувати";
 $text['header-destination_import']['tr-tr'] = "Hedef İçe Aktarma";
-$text['header-destination_import']['zh-cn'] = "目的地进口";
+$text['header-destination_import']['zh-cn'] = "目的地导入";
 $text['header-destination_import']['ja-jp'] = "宛先インポート";
 $text['header-destination_import']['ko-kr'] = "대상 가져오기";
 
@@ -1618,7 +1618,7 @@ $text['header-destination_export']['ru-ru'] = "Экспорт";
 $text['header-destination_export']['sv-se'] = "Export";
 $text['header-destination_export']['uk-ua'] = "Експортувати";
 $text['header-destination_export']['tr-tr'] = "Hedef Dışa Aktarma";
-$text['header-destination_export']['zh-cn'] = "目的地出口";
+$text['header-destination_export']['zh-cn'] = "目的地导出";
 $text['header-destination_export']['ja-jp'] = "宛先エクスポート";
 $text['header-destination_export']['ko-kr'] = "대상 내보내기";
 

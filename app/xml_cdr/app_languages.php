@@ -2020,7 +2020,7 @@ $text['label-inbound']['ru-ru'] = "Входящие";
 $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вихідний";
 $text['label-inbound']['tr-tr'] = "Gelen";
-$text['label-inbound']['zh-cn'] = "呼出";
+$text['label-inbound']['zh-cn'] = "呼入";
 $text['label-inbound']['ja-jp'] = "インバウンド";
 $text['label-inbound']['ko-kr'] = "인바운드";
 

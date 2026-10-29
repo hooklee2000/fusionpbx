@@ -1531,7 +1531,7 @@ $text['label-exit-sound']['ru-ru'] = "Звук при выходе";
 $text['label-exit-sound']['sv-se'] = "Avslutningsljud";
 $text['label-exit-sound']['uk-ua'] = "Мелодія при виході";
 $text['label-exit-sound']['zh-cn'] = "货物正确";
-$text['label-exit-sound']['ja-jp'] = "出口の音";
+$text['label-exit-sound']['ja-jp'] = "导出の音";
 $text['label-exit-sound']['ko-kr'] = "출구 소리";
 
 $text['label-enter-sound']['en-us'] = "Enter Sound";
