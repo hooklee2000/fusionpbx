@@ -717,12 +717,14 @@ class call_recordings {
 						$sql .= ", call_recording_base64 ";
 					}
 					$sql .= "from view_call_recordings ";
-					$cr_uuid_placeholders = [];
-					foreach ($uuids as $cr_uuid_index => $cr_uuid_value) {
-						$cr_uuid_placeholders[] = ':cr_uuid_' . $cr_uuid_index;
-						$parameters['cr_uuid_' . $cr_uuid_index] = $cr_uuid_value;
+
+					$uuid_placeholders = [];
+					foreach ($uuids as $call_recording_uuid_index => $call_recording_uuid_value) {
+						$uuid_placeholders[] = ':call_recording_uuid_' . $call_recording_uuid_index;
+						$parameters['call_recording_uuid_' . $call_recording_uuid_index] = $call_recording_uuid_value;
 					}
-					$sql .= "where call_recording_uuid in (" . implode(',', $cr_uuid_placeholders) . ") ";
+					$sql .= "where call_recording_uuid in (" . implode(',', $uuid_placeholders) . ") ";
+
 					$parameters['time_zone'] = $time_zone;
 					$rows = $this->database->select($sql, $parameters, 'all');
 					if (!empty($rows) && is_array($rows) && @sizeof($rows) != 0) {

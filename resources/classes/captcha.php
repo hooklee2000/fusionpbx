@@ -86,7 +86,7 @@ class captcha {
 		$font_size = 16;
 		if (@$_GET['fontsize']) {
 			$font_size = (int)$_GET['fontsize'];
-			//restrict the font size to a safe range to prevent resource exhaustion
+			//clamp the font size to a safe range to prevent resource exhaustion
 			if ($font_size < 8 || $font_size > 72) {
 				$font_size = 16;
 			}
