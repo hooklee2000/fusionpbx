@@ -186,7 +186,7 @@ $text['title-voicemail_export']['ru-ru'] = "Экспорт";
 $text['title-voicemail_export']['sv-se'] = "Export";
 $text['title-voicemail_export']['uk-ua'] = "Експортувати";
 $text['title-voicemail_export']['tr-tr'] = "Hedef Dışa Aktarma";
-$text['title-voicemail_export']['zh-cn'] = "目的地出口";
+$text['title-voicemail_export']['zh-cn'] = "目的地导出";
 $text['title-voicemail_export']['ja-jp'] = "宛先エクスポート";
 $text['title-voicemail_export']['ko-kr'] = "대상 내보내기";
 
@@ -1562,7 +1562,7 @@ $text['header-voicemail_export']['ru-ru'] = "Экспорт";
 $text['header-voicemail_export']['sv-se'] = "Export";
 $text['header-voicemail_export']['uk-ua'] = "Експортувати";
 $text['header-voicemail_export']['tr-tr'] = "Hedef Dışa Aktarma";
-$text['header-voicemail_export']['zh-cn'] = "目的地出口";
+$text['header-voicemail_export']['zh-cn'] = "目的地导出";
 $text['header-voicemail_export']['ja-jp'] = "宛先エクスポート";
 $text['header-voicemail_export']['ko-kr'] = "대상 내보내기";
 

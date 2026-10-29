@@ -7326,7 +7326,7 @@ $text['button-import']['ro-ro'] = "Import";
 $text['button-import']['ru-ru'] = "Импорт";
 $text['button-import']['sv-se'] = "Importera";
 $text['button-import']['uk-ua'] = "Імпорт";
-$text['button-import']['zh-cn'] = "进口";
+$text['button-import']['zh-cn'] = "导入";
 $text['button-import']['ja-jp'] = "輸入";
 $text['button-import']['ko-kr'] = "수입";
 

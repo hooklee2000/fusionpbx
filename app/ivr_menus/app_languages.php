@@ -185,8 +185,8 @@ $text['option-exit']['ru-ru'] = "Выход";
 $text['option-exit']['sv-se'] = "exit";
 $text['option-exit']['uk-ua'] = "Вступ";
 $text['option-exit']['tr-tr'] = "çıkış";
-$text['option-exit']['zh-cn'] = "出口";
-$text['option-exit']['ja-jp'] = "出口";
+$text['option-exit']['zh-cn'] = "导出";
+$text['option-exit']['ja-jp'] = "导出";
 $text['option-exit']['ko-kr'] = "출구";
 
 $text['option-top']['en-us'] = "Top";

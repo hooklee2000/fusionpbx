@@ -212,7 +212,7 @@ $text['label-driver']['ru-ru'] = "Драйвер";
 $text['label-driver']['sv-se'] = "Drivrutin";
 $text['label-driver']['uk-ua'] = "Драйвер";
 $text['label-driver']['tr-tr'] = "Sürücü";
-$text['label-driver']['zh-cn'] = "司机";
+$text['label-driver']['zh-cn'] = "驱动";
 $text['label-driver']['ja-jp'] = "運転者";
 $text['label-driver']['ko-kr'] = "운전사";
 
