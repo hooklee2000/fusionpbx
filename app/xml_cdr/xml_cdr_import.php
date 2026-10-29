@@ -50,4 +50,3 @@ ini_set("precision", 6);
 $xml_cdr = new xml_cdr(["database" => $database, "settings" => $settings, "domain_uuid" => $domain_uuid]);
 $xml_cdr->post();
 $xml_cdr->read_files();
-

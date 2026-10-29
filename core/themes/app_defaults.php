@@ -3454,4 +3454,3 @@
 		$p->delete('theme_add', 'temp');
 		$p->delete('theme_setting_add', 'temp');
 	}
-

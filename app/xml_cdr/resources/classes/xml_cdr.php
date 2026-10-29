@@ -1545,7 +1545,6 @@ class xml_cdr {
 				}
 			}
 		}
-
 		//collect the time windows in which each extension took part in the call
 		$extension_windows = array(); //domain uuid => extension uuid => array('owned' => array, 'dialed' => array)
 		foreach ($call_flow_array as $leg_index => $row) {
@@ -1599,6 +1598,7 @@ class xml_cdr {
 						}
 					}
 				}
+
 			}
 		}
 
