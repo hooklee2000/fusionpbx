@@ -104,7 +104,7 @@ $text['label-fifo_name']['ru-ru'] = "Имя";
 $text['label-fifo_name']['sv-se'] = "namn";
 $text['label-fifo_name']['uk-ua'] = "Ім'я";
 $text['label-fifo_name']['tr-tr'] = "İsim";
-$text['label-fifo_name']['zh-cn'] = "姓名";
+$text['label-fifo_name']['zh-cn'] = "名称";
 $text['label-fifo_name']['ja-jp'] = "名前";
 $text['label-fifo_name']['ko-kr'] = "이름";
 
@@ -185,7 +185,7 @@ $text['label-fifo_extension']['ru-ru'] = "Расширение";
 $text['label-fifo_extension']['sv-se'] = "Förlängning";
 $text['label-fifo_extension']['uk-ua'] = "Розширення";
 $text['label-fifo_extension']['tr-tr'] = "Eklenti";
-$text['label-fifo_extension']['zh-cn'] = "扩大";
+$text['label-fifo_extension']['zh-cn'] = "分机";
 $text['label-fifo_extension']['ja-jp'] = "拡大";
 $text['label-fifo_extension']['ko-kr'] = "확대";
 

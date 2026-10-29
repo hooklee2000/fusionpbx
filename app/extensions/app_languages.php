@@ -23,7 +23,7 @@ $text['title-extensions']['ru-ru'] = "Продления";
 $text['title-extensions']['sv-se'] = "Anknytningar";
 $text['title-extensions']['uk-ua'] = "Розширення";
 $text['title-extensions']['tr-tr'] = "Uzantılar";
-$text['title-extensions']['zh-cn'] = "扩展";
+$text['title-extensions']['zh-cn'] = "分机";
 $text['title-extensions']['ja-jp'] = "拡張機能";
 $text['title-extensions']['ko-kr'] = "확장 프로그램";
 
@@ -77,7 +77,7 @@ $text['title-extension_import']['ru-ru'] = "Импорт расширений";
 $text['title-extension_import']['sv-se'] = "Tilläggsimport";
 $text['title-extension_import']['uk-ua'] = "Розширення імпорту";
 $text['title-extension_import']['tr-tr'] = "Uzantı İçe Aktarma";
-$text['title-extension_import']['zh-cn'] = "扩展导入";
+$text['title-extension_import']['zh-cn'] = "分机导入";
 $text['title-extension_import']['ja-jp'] = "拡張機能のインポート";
 $text['title-extension_import']['ko-kr'] = "확장 프로그램 가져오기";
 
@@ -104,7 +104,7 @@ $text['title-extension_export']['ru-ru'] = "Экспорт расширения"
 $text['title-extension_export']['sv-se'] = "Export av tillägg";
 $text['title-extension_export']['uk-ua'] = "Експорт розширення";
 $text['title-extension_export']['tr-tr'] = "Uzantı Dışa Aktarma";
-$text['title-extension_export']['zh-cn'] = "扩展导出";
+$text['title-extension_export']['zh-cn'] = "分机导出";
 $text['title-extension_export']['ja-jp'] = "拡張機能のエクスポート";
 $text['title-extension_export']['ko-kr'] = "확장 내보내기";
 
@@ -131,7 +131,7 @@ $text['title-extension-edit']['ru-ru'] = "Внутренний Номер";
 $text['title-extension-edit']['sv-se'] = "Förlängning";
 $text['title-extension-edit']['uk-ua'] = "Розширення";
 $text['title-extension-edit']['tr-tr'] = "Eklenti";
-$text['title-extension-edit']['zh-cn'] = "扩大";
+$text['title-extension-edit']['zh-cn'] = "分机";
 $text['title-extension-edit']['ja-jp'] = "拡大";
 $text['title-extension-edit']['ko-kr'] = "확대";
 
@@ -347,7 +347,7 @@ $text['message-maximum_extensions']['ru-ru'] = "Максимальное кол�
 $text['message-maximum_extensions']['sv-se'] = "Maximum Antal Anknytningar:";
 $text['message-maximum_extensions']['uk-ua'] = "Максимальна кількість розширень";
 $text['message-maximum_extensions']['tr-tr'] = "Maksimum Uzantılar:";
-$text['message-maximum_extensions']['zh-cn'] = "最大扩展：";
+$text['message-maximum_extensions']['zh-cn'] = "最大分机：";
 $text['message-maximum_extensions']['ja-jp'] = "最大延長数:";
 $text['message-maximum_extensions']['ko-kr'] = "최대 확장:";
 
@@ -563,7 +563,7 @@ $text['label-user_record_outbound']['ru-ru'] = "Исходящая";
 $text['label-user_record_outbound']['sv-se'] = "Utgående";
 $text['label-user_record_outbound']['uk-ua'] = "Вихідний";
 $text['label-user_record_outbound']['tr-tr'] = "Giden";
-$text['label-user_record_outbound']['zh-cn'] = "出站";
+$text['label-user_record_outbound']['zh-cn'] = "呼出";
 $text['label-user_record_outbound']['ja-jp'] = "アウトバウンド";
 $text['label-user_record_outbound']['ko-kr'] = "배 밖으로";
 
@@ -644,7 +644,7 @@ $text['label-user_record_inbound']['ru-ru'] = "Входяший";
 $text['label-user_record_inbound']['sv-se'] = "Inkommande";
 $text['label-user_record_inbound']['uk-ua'] = "Вхідний";
 $text['label-user_record_inbound']['tr-tr'] = "Gelen";
-$text['label-user_record_inbound']['zh-cn'] = "入境";
+$text['label-user_record_inbound']['zh-cn'] = "呼出";
 $text['label-user_record_inbound']['ja-jp'] = "インバウンド";
 $text['label-user_record_inbound']['ko-kr'] = "인바운드";
 
@@ -779,7 +779,7 @@ $text['label-user_context']['ru-ru'] = "Контекст";
 $text['label-user_context']['sv-se'] = "Sammanhang";
 $text['label-user_context']['uk-ua'] = "Контекст";
 $text['label-user_context']['tr-tr'] = "Bağlam";
-$text['label-user_context']['zh-cn'] = "语境";
+$text['label-user_context']['zh-cn'] = "上下文";
 $text['label-user_context']['ja-jp'] = "コンテクスト";
 $text['label-user_context']['ko-kr'] = "문맥";
 
@@ -1292,7 +1292,7 @@ $text['label-outbound_caller_id_name']['ru-ru'] = "Идентификатор (C
 $text['label-outbound_caller_id_name']['sv-se'] = "Utgående namnpresentation";
 $text['label-outbound_caller_id_name']['uk-ua'] = "Ім'я користувача";
 $text['label-outbound_caller_id_name']['tr-tr'] = "Giden Arayan Kimliği Adı";
-$text['label-outbound_caller_id_name']['zh-cn'] = "出站来电显示名称";
+$text['label-outbound_caller_id_name']['zh-cn'] = "呼出来电显示名称";
 $text['label-outbound_caller_id_name']['ja-jp'] = "発信者ID名";
 $text['label-outbound_caller_id_name']['ko-kr'] = "아웃바운드 발신자 ID 이름";
 
@@ -1319,7 +1319,7 @@ $text['label-outbound_cid_name']['ru-ru'] = "Идентификатор (Caller 
 $text['label-outbound_cid_name']['sv-se'] = "Utgående namnpresentation";
 $text['label-outbound_cid_name']['uk-ua'] = "Вихідний CID Ім'я";
 $text['label-outbound_cid_name']['tr-tr'] = "Giden Adı";
-$text['label-outbound_cid_name']['zh-cn'] = "出站 CID 名称";
+$text['label-outbound_cid_name']['zh-cn'] = "呼出 CID 名称";
 $text['label-outbound_cid_name']['ja-jp'] = "アウトバウンド CID 名";
 $text['label-outbound_cid_name']['ko-kr'] = "아웃바운드 CID 이름";
 
@@ -1346,7 +1346,7 @@ $text['label-outbound_cid_number']['ru-ru'] = "Идентификатор (Calle
 $text['label-outbound_cid_number']['sv-se'] = "Utgående namnpresentation";
 $text['label-outbound_cid_number']['uk-ua'] = "Вихідний CID Ім'я";
 $text['label-outbound_cid_number']['tr-tr'] = "Giden Numara";
-$text['label-outbound_cid_number']['zh-cn'] = "出站 CID 名称";
+$text['label-outbound_cid_number']['zh-cn'] = "呼出 CID 名称";
 $text['label-outbound_cid_number']['ja-jp'] = "アウトバウンド CID 名";
 $text['label-outbound_cid_number']['ko-kr'] = "아웃바운드 CID 이름";
 
@@ -1616,7 +1616,7 @@ $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
 $text['label-extension']['tr-tr'] = "Eklenti";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -1805,7 +1805,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -1886,7 +1886,7 @@ $text['label-directory_exten_visible']['ru-ru'] = "Расширение види
 $text['label-directory_exten_visible']['sv-se'] = "Fullständigt Namn I Katalogen";
 $text['label-directory_exten_visible']['uk-ua'] = "Розширення каталогу Visible";
 $text['label-directory_exten_visible']['tr-tr'] = "Dizin Uzantısı Görünür";
-$text['label-directory_exten_visible']['zh-cn'] = "目录扩展可见";
+$text['label-directory_exten_visible']['zh-cn'] = "目录分机可见";
 $text['label-directory_exten_visible']['ja-jp'] = "ディレクトリ拡張子が表示されます";
 $text['label-directory_exten_visible']['ko-kr'] = "디렉토리 확장자 표시";
 
@@ -2183,7 +2183,7 @@ $text['label-billing_warning']['ru-ru'] = "Установлена оплата, 
 $text['label-billing_warning']['sv-se'] = "Fakturerings program är installerat, tänk på att du måste ha rätt balans för att kunna skapa anknytningar.";
 $text['label-billing_warning']['uk-ua'] = "Зареєструйтеся, будь ласка, зверніть увагу, що потрібно мати достатній баланс для створення розширень.";
 $text['label-billing_warning']['tr-tr'] = "Faturalandırma kuruldu. Uzantı oluşturmak için yeterli bakiyenizin olması gerektiğini lütfen unutmayın.";
-$text['label-billing_warning']['zh-cn'] = "计费已安装，请注意您需要有足够的余额才能创建扩展。";
+$text['label-billing_warning']['zh-cn'] = "计费已安装，请注意您需要有足够的余额才能创建分机。";
 $text['label-billing_warning']['ja-jp'] = "課金がインストールされています。拡張機能を作成するには十分な残高が必要であることに注意してください。";
 $text['label-billing_warning']['ko-kr'] = "결제가 설치되었습니다. 광고 확장을 만들려면 잔액이 충분해야 합니다.";
 
@@ -2318,7 +2318,7 @@ $text['label-registrations']['ru-ru'] = "Регистрации SIP";
 $text['label-registrations']['sv-se'] = "Registreringar";
 $text['label-registrations']['uk-ua'] = "Реєстрації";
 $text['label-registrations']['tr-tr'] = "Kayıtlar";
-$text['label-registrations']['zh-cn'] = "登记";
+$text['label-registrations']['zh-cn'] = "注册";
 $text['label-registrations']['ja-jp'] = "登録";
 $text['label-registrations']['ko-kr'] = "등록";
 
@@ -2721,7 +2721,7 @@ $text['header-extensions']['ru-ru'] = "Внутренние Номера";
 $text['header-extensions']['sv-se'] = "Anknytningar";
 $text['header-extensions']['uk-ua'] = "Розширення";
 $text['header-extensions']['tr-tr'] = "Uzantılar";
-$text['header-extensions']['zh-cn'] = "扩展";
+$text['header-extensions']['zh-cn'] = "分机";
 $text['header-extensions']['ja-jp'] = "拡張機能";
 $text['header-extensions']['ko-kr'] = "확장 프로그램";
 
@@ -2748,7 +2748,7 @@ $text['header-extension_import']['ru-ru'] = "Импорт расширений";
 $text['header-extension_import']['sv-se'] = "Tilläggsimport";
 $text['header-extension_import']['uk-ua'] = "Імпорт розширення";
 $text['header-extension_import']['tr-tr'] = "Uzantı İçe Aktarma";
-$text['header-extension_import']['zh-cn'] = "扩展导入";
+$text['header-extension_import']['zh-cn'] = "分机导入";
 $text['header-extension_import']['ja-jp'] = "拡張機能のインポート";
 $text['header-extension_import']['ko-kr'] = "확장 프로그램 가져오기";
 
@@ -2775,7 +2775,7 @@ $text['header-extension_export']['ru-ru'] = "Экспорт расширения
 $text['header-extension_export']['sv-se'] = "Export av tillägg";
 $text['header-extension_export']['uk-ua'] = "Експорт розширення";
 $text['header-extension_export']['tr-tr'] = "Uzantı Dışa Aktarma";
-$text['header-extension_export']['zh-cn'] = "扩展导出";
+$text['header-extension_export']['zh-cn'] = "分机导出";
 $text['header-extension_export']['ja-jp'] = "拡張機能のエクスポート";
 $text['header-extension_export']['ko-kr'] = "확장 내보내기";
 
@@ -2802,7 +2802,7 @@ $text['header-extension-edit']['ru-ru'] = "Внутренний Номер";
 $text['header-extension-edit']['sv-se'] = "Anknytning";
 $text['header-extension-edit']['uk-ua'] = "Розширення";
 $text['header-extension-edit']['tr-tr'] = "Eklenti";
-$text['header-extension-edit']['zh-cn'] = "扩大";
+$text['header-extension-edit']['zh-cn'] = "分机";
 $text['header-extension-edit']['ja-jp'] = "拡大";
 $text['header-extension-edit']['ko-kr'] = "확대";
 
@@ -3126,7 +3126,7 @@ $text['description-user_record']['ru-ru'] = "Укажите, следует ли
 $text['description-user_record']['sv-se'] = "Välj om lokala, inkommande, utgående eller alla samtal skall spelas in.";
 $text['description-user_record']['uk-ua'] = "Виберіть, чи записувати локальні, вхідні, вихідні або всі.";
 $text['description-user_record']['tr-tr'] = "Yerel, gelen, giden veya tümünün kaydedileceğini seçin.";
-$text['description-user_record']['zh-cn'] = "选择是记录本地、入站、出站还是全部。";
+$text['description-user_record']['zh-cn'] = "选择是记录本地、入站、呼出还是全部。";
 $text['description-user_record']['ja-jp'] = "ローカル、受信、送信、またはすべてを記録するかどうかを選択します。";
 $text['description-user_record']['ko-kr'] = "로컬, 인바운드, 아웃바운드 또는 모두를 녹음할지 여부를 선택합니다.";
 
@@ -3504,7 +3504,7 @@ $text['description-number_alias']['ru-ru'] = "Добавочный номер. �
 $text['description-number_alias']['sv-se'] = "Om anknytningen är numerisk då är nummer alias valfritt.";
 $text['description-number_alias']['uk-ua'] = "Якщо розширення є числом, то кількість псевдонімів необов'язково.";
 $text['description-number_alias']['tr-tr'] = "Uzantı sayısal ise, numara takma adı isteğe bağlıdır.";
-$text['description-number_alias']['zh-cn'] = "如果延期是数字,如果扩展名是数字，则数字别名是可选的。";
+$text['description-number_alias']['zh-cn'] = "如果分机是数字,如果分机名是数字，则数字别名是可选的。";
 $text['description-number_alias']['ja-jp'] = "拡張子が数値の場合、数値エイリアスはオプションです。";
 $text['description-number_alias']['ko-kr'] = "내선 번호가 숫자인 경우 숫자 별칭은 선택 사항입니다.";
 
@@ -3585,7 +3585,7 @@ $text['description-absolute_codec_string']['ru-ru'] = "Последовател�
 $text['description-absolute_codec_string']['sv-se'] = "Absolut Codec String för anknytningen";
 $text['description-absolute_codec_string']['uk-ua'] = "Абсолютний Codec String для розширення";
 $text['description-absolute_codec_string']['tr-tr'] = "Uzantı için Mutlak Codec Dizesi";
-$text['description-absolute_codec_string']['zh-cn'] = "扩展的绝对编解码器字符串";
+$text['description-absolute_codec_string']['zh-cn'] = "分机的绝对编解码器字符串";
 $text['description-absolute_codec_string']['ja-jp'] = "拡張子の絶対コーデック文字列";
 $text['description-absolute_codec_string']['ko-kr'] = "확장에 대한 절대 코덱 문자열";
 
@@ -3612,7 +3612,7 @@ $text['description-force_ping']['ru-ru'] = "Использовать OPTIONS, ч
 $text['description-force_ping']['sv-se'] = "Använd OPTIONS för att avgöra om anknytningen är nåbar";
 $text['description-force_ping']['uk-ua'] = "Використовуйте OPTIONS для виявлення, якщо розширення досягається";
 $text['description-force_ping']['tr-tr'] = "Uzantının erişilebilir olup olmadığını tespit etmek için OPTIONS'ı kullanın";
-$text['description-force_ping']['zh-cn'] = "使用 OPTIONS 检测扩展是否可达";
+$text['description-force_ping']['zh-cn'] = "使用 OPTIONS 检测分机是否可达";
 $text['description-force_ping']['ja-jp'] = "OPTIONS を使用して内線番号が到達可能かどうかを検出する";
 $text['description-force_ping']['ko-kr'] = "OPTIONS를 사용하여 내선 번호에 연결할 수 있는지 감지";
 
@@ -3693,7 +3693,7 @@ $text['description-limit_max']['ru-ru'] = "Введите максимально
 $text['description-limit_max']['sv-se'] = "Ange max antal utgående samtal för denna anknytning.";
 $text['description-limit_max']['uk-ua'] = "Введіть номер мобільного, який Ви вказали при укладаннi договору з банком - для ідентифікації.";
 $text['description-limit_max']['tr-tr'] = "İzin verilen maksimum eşzamanlı giden arama sayısını girin.";
-$text['description-limit_max']['zh-cn'] = "输入允许的最大并发出站呼叫数。";
+$text['description-limit_max']['zh-cn'] = "输入允许的最大并发呼出呼叫数。";
 $text['description-limit_max']['ja-jp'] = "許可される同時アウトバウンド コールの最大数を入力します。";
 $text['description-limit_max']['ko-kr'] = "허용되는 최대 동시 발신 통화 수를 입력합니다.";
 
@@ -3801,7 +3801,7 @@ $text['description-extension']['ru-ru'] = "Введите буквенно-ци�
 $text['description-extension']['sv-se'] = "Tilldela anknytning och linje nummer till enheten.";
 $text['description-extension']['uk-ua'] = "Введіть alphanumeric розширення. Налаштування за замовчуванням дозволяє 2 - 15 цифрових розширень.";
 $text['description-extension']['tr-tr'] = "Alfasayısal uzantıyı girin. Varsayılan konfigürasyon 2 - 15 haneli dahili numaralara izin verir.";
-$text['description-extension']['zh-cn'] = "输入字母数字扩展名。 默认配置允许 2 - 15 位扩展。";
+$text['description-extension']['zh-cn'] = "输入字母数字分机名。 默认配置允许 2 - 15 位分机。";
 $text['description-extension']['ja-jp'] = "英数字の内線番号を入力します。 デフォルト設定では、2 ～ 15 桁の内線番号が許可されます。";
 $text['description-extension']['ko-kr'] = "영숫자 확장자를 입력합니다. 기본 구성은 2 - 15자리 내선을 허용합니다.";
 
@@ -3828,7 +3828,7 @@ $text['description-enabled']['ru-ru'] = "Установите статус Вн�
 $text['description-enabled']['sv-se'] = "Välj status på denna standardinställning.";
 $text['description-enabled']['uk-ua'] = "Встановити статус розширення.";
 $text['description-enabled']['tr-tr'] = "Uzantının durumunu ayarlayın.";
-$text['description-enabled']['zh-cn'] = "设置扩展的状态。";
+$text['description-enabled']['zh-cn'] = "设置分机的状态。";
 $text['description-enabled']['ja-jp'] = "拡張機能のステータスを設定します。";
 $text['description-enabled']['ko-kr'] = "확장 상태를 설정합니다.";
 
@@ -4017,7 +4017,7 @@ $text['description-directory_visible']['ru-ru'] = "Выберите, следу�
 $text['description-directory_visible']['sv-se'] = "Välj om namnet inte skall visas i katalogen.";
 $text['description-directory_visible']['uk-ua'] = "Виберіть, чи сховати ім'я з каталогу.";
 $text['description-directory_visible']['tr-tr'] = "Adın dizinden gizlenip gizlenmeyeceğini seçin.";
-$text['description-directory_visible']['zh-cn'] = "选择是否从目录中隐藏姓名。";
+$text['description-directory_visible']['zh-cn'] = "选择是否从目录中隐藏名称。";
 $text['description-directory_visible']['ja-jp'] = "ディレクトリに名前を非表示にするかどうかを選択します。";
 $text['description-directory_visible']['ko-kr'] = "디렉터리에서 이름을 숨길지 여부를 선택합니다.";
 

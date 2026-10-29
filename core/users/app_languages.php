@@ -945,7 +945,7 @@ $text['label-time_zone']['ru-ru'] = "Часовой пояс";
 $text['label-time_zone']['sv-se'] = "Tidszon";
 $text['label-time_zone']['uk-ua'] = "Часовий пояс";
 $text['label-time_zone']['tr-tr'] = "Saat dilimi";
-$text['label-time_zone']['zh-cn'] = "时间区";
+$text['label-time_zone']['zh-cn'] = "时区";
 $text['label-time_zone']['ja-jp'] = "タイムゾーン";
 $text['label-time_zone']['ko-kr'] = "시간대";
 
@@ -999,7 +999,7 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 $text['label-status']['tr-tr'] = "Durum";
-$text['label-status']['zh-cn'] = "地位";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['ja-jp'] = "ステータス";
 $text['label-status']['ko-kr'] = "상태";
 
@@ -1431,7 +1431,7 @@ $text['label-groups']['ru-ru'] = "Группы";
 $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['uk-ua'] = "Групи";
 $text['label-groups']['tr-tr'] = "Gruplar";
-$text['label-groups']['zh-cn'] = "团体";
+$text['label-groups']['zh-cn'] = "群组";
 $text['label-groups']['ja-jp'] = "グループ";
 $text['label-groups']['ko-kr'] = "여러 떼";
 
@@ -1620,7 +1620,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -2484,7 +2484,7 @@ $text['description-enabled']['ru-ru'] = "Установить статус уч�
 $text['description-enabled']['sv-se'] = "Ange statusen på detta konto..";
 $text['description-enabled']['uk-ua'] = "Вкажіть стан цього облікового запису.";
 $text['description-enabled']['tr-tr'] = "Bu hesabın durumunu ayarlayın.";
-$text['description-enabled']['zh-cn'] = "确立该账户的地位。";
+$text['description-enabled']['zh-cn'] = "确立该账户的状态。";
 $text['description-enabled']['ja-jp'] = "このアカウントのステータスを設定します。";
 $text['description-enabled']['ko-kr'] = "이 계정의 상태를 설정합니다.";
 
@@ -2996,7 +2996,7 @@ $text['label-region']['ru-ru'] = "Область";
 $text['label-region']['sv-se'] = "Område";
 $text['label-region']['tr-tr'] = "Bölge";
 $text['label-region']['uk-ua'] = "Регіон";
-$text['label-region']['zh-cn'] = "地區";
+$text['label-region']['zh-cn'] = "地区";
 $text['label-region']['ja-jp'] = "領域";
 $text['label-region']['ko-kr'] = "지역";
 

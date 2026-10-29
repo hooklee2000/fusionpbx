@@ -100,7 +100,7 @@ $text['label-call_recording_name']['ro-ro'] = "Nume";
 $text['label-call_recording_name']['ru-ru'] = "Имя";
 $text['label-call_recording_name']['sv-se'] = "namn";
 $text['label-call_recording_name']['uk-ua'] = "Ім'я";
-$text['label-call_recording_name']['zh-cn'] = "姓名";
+$text['label-call_recording_name']['zh-cn'] = "名称";
 $text['label-call_recording_name']['ja-jp'] = "名前";
 $text['label-call_recording_name']['ko-kr'] = "이름";
 
@@ -126,7 +126,7 @@ $text['label-caller_id_name']['ro-ro'] = "Numele apelantului";
 $text['label-caller_id_name']['ru-ru'] = "CID Имя";
 $text['label-caller_id_name']['sv-se'] = "CID Namn";
 $text['label-caller_id_name']['uk-ua'] = "CID Ім’я";
-$text['label-caller_id_name']['zh-cn'] = "来电者姓名";
+$text['label-caller_id_name']['zh-cn'] = "主叫";
 $text['label-caller_id_name']['ja-jp'] = "発信者名";
 $text['label-caller_id_name']['ko-kr'] = "발신자 이름";
 
@@ -178,7 +178,7 @@ $text['label-caller_destination']['ro-ro'] = "Destinația apelantului";
 $text['label-caller_destination']['ru-ru'] = "Вызывающий абонент";
 $text['label-caller_destination']['sv-se'] = "Uppringarens destination";
 $text['label-caller_destination']['uk-ua'] = "Пункт призначення абонента";
-$text['label-caller_destination']['zh-cn'] = "来电目的地";
+$text['label-caller_destination']['zh-cn'] = "被叫";
 $text['label-caller_destination']['ja-jp'] = "発信者の宛先";
 $text['label-caller_destination']['ko-kr'] = "발신자 목적지";
 
@@ -568,7 +568,7 @@ $text['label-inbound']['ro-ro'] = "Intrare";
 $text['label-inbound']['ru-ru'] = "Входящий";
 $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вхідний";
-$text['label-inbound']['zh-cn'] = "入境";
+$text['label-inbound']['zh-cn'] = "呼出";
 $text['label-inbound']['ja-jp'] = "インバウンド";
 $text['label-inbound']['ko-kr'] = "인바운드";
 
@@ -594,7 +594,7 @@ $text['label-outbound']['ro-ro'] = "Outbound";
 $text['label-outbound']['ru-ru'] = "Исходящий";
 $text['label-outbound']['sv-se'] = "Utgående";
 $text['label-outbound']['uk-ua'] = "Вихідний";
-$text['label-outbound']['zh-cn'] = "出站";
+$text['label-outbound']['zh-cn'] = "呼出";
 $text['label-outbound']['ja-jp'] = "アウトバウンド";
 $text['label-outbound']['ko-kr'] = "배 밖으로";
 

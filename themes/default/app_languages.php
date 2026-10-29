@@ -267,7 +267,7 @@ $text['theme-label-domain']['ru-ru'] = "Домен";
 $text['theme-label-domain']['sv-se'] = "Domän";
 $text['theme-label-domain']['uk-ua'] = "Домен";
 $text['theme-label-domain']['tr-tr'] = "Alan Adı";
-$text['theme-label-domain']['zh-cn'] = "领域";
+$text['theme-label-domain']['zh-cn'] = "域名";
 $text['theme-label-domain']['ja-jp'] = "ドメイン";
 $text['theme-label-domain']['ko-kr'] = "도메인";
 

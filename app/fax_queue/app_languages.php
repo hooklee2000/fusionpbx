@@ -568,7 +568,7 @@ $text['label-fax_status']['ru-ru'] = "Статус";
 $text['label-fax_status']['sv-se'] = "Status";
 $text['label-fax_status']['uk-ua'] = "Статус на сервери";
 $text['label-fax_status']['tr-tr'] = "Durum";
-$text['label-fax_status']['zh-cn'] = "地位";
+$text['label-fax_status']['zh-cn'] = "状态";
 $text['label-fax_status']['ja-jp'] = "スターテス";
 $text['label-fax_status']['ko-kr'] = "상태";
 
@@ -1062,7 +1062,7 @@ $text['label-busy']['ru-ru'] = "занят";
 $text['label-busy']['sv-se'] = "Upptagen";
 $text['label-busy']['uk-ua'] = "свінгери";
 $text['label-busy']['tr-tr'] = "Meşgul";
-$text['label-busy']['zh-cn'] = "忙碌的";
+$text['label-busy']['zh-cn'] = "忙线";
 $text['label-busy']['ja-jp'] = "忙しい";
 $text['label-busy']['ko-kr'] = "바쁘다";
 

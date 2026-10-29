@@ -23,7 +23,7 @@ $text['title-music_on_hold_settings']['ru-ru'] = "Музыка на удержа
 $text['title-music_on_hold_settings']['sv-se'] = "Väntmusik inställningar";
 $text['title-music_on_hold_settings']['uk-ua'] = "Музика на утриманні настройки";
 $text['title-music_on_hold_settings']['tr-tr'] = "Bekleme Müziği Ayarları";
-$text['title-music_on_hold_settings']['zh-cn'] = "保留音乐设置";
+$text['title-music_on_hold_settings']['zh-cn'] = "等待音乐设置";
 $text['title-music_on_hold_settings']['ja-jp'] = "保留音の設定";
 $text['title-music_on_hold_settings']['ko-kr'] = "대기 중인 음악 설정";
 
@@ -50,7 +50,7 @@ $text['title-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['title-music_on_hold']['sv-se'] = "Väntmusik";
 $text['title-music_on_hold']['uk-ua'] = "Музика на утриманні";
 $text['title-music_on_hold']['tr-tr'] = "Beklemedeki Müzik";
-$text['title-music_on_hold']['zh-cn'] = "保留音乐";
+$text['title-music_on_hold']['zh-cn'] = "等待音乐";
 $text['title-music_on_hold']['ja-jp'] = "保留音";
 $text['title-music_on_hold']['ko-kr'] = "음악 보류";
 
@@ -563,7 +563,7 @@ $text['label-play']['ru-ru'] = "Проиграть";
 $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
 $text['label-play']['tr-tr'] = "Oynamak";
-$text['label-play']['zh-cn'] = "玩";
+$text['label-play']['zh-cn'] = "播放";
 $text['label-play']['ja-jp'] = "遊ぶ";
 $text['label-play']['ko-kr'] = "놀다";
 
@@ -671,7 +671,7 @@ $text['label-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['label-music_on_hold']['sv-se'] = "Väntmusik";
 $text['label-music_on_hold']['uk-ua'] = "Музика на утриманні";
 $text['label-music_on_hold']['tr-tr'] = "Beklemedeki Müzik";
-$text['label-music_on_hold']['zh-cn'] = "保留音乐";
+$text['label-music_on_hold']['zh-cn'] = "等待音乐";
 $text['label-music_on_hold']['ja-jp'] = "保留音";
 $text['label-music_on_hold']['ko-kr'] = "음악 보류";
 
@@ -995,7 +995,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -1292,7 +1292,7 @@ $text['header-music_on_hold_settings']['ru-ru'] = "Музыка на удерж�
 $text['header-music_on_hold_settings']['sv-se'] = "Väntmusik inställningar";
 $text['header-music_on_hold_settings']['uk-ua'] = "Музика на утриманні настройки";
 $text['header-music_on_hold_settings']['tr-tr'] = "Bekleme Müziği Ayarları";
-$text['header-music_on_hold_settings']['zh-cn'] = "保留音乐设置";
+$text['header-music_on_hold_settings']['zh-cn'] = "等待音乐设置";
 $text['header-music_on_hold_settings']['ja-jp'] = "保留音の設定";
 $text['header-music_on_hold_settings']['ko-kr'] = "대기 중인 음악 설정";
 

@@ -1088,7 +1088,7 @@ $text['option-home']['ro-ro'] = "Acasă";
 $text['option-home']['ru-ru'] = "Главная";
 $text['option-home']['sv-se'] = "Hem";
 $text['option-home']['uk-ua'] = "Домашній";
-$text['option-home']['zh-cn'] = "家";
+$text['option-home']['zh-cn'] = "主目录";
 $text['option-home']['ja-jp'] = "家";
 $text['option-home']['ko-kr'] = "집";
 
@@ -2438,7 +2438,7 @@ $text['label-phone_extension']['ro-ro'] = "Extensie";
 $text['label-phone_extension']['ru-ru'] = "Внутренний Номер";
 $text['label-phone_extension']['sv-se'] = "Anknytning";
 $text['label-phone_extension']['uk-ua'] = "Розширення";
-$text['label-phone_extension']['zh-cn'] = "扩大";
+$text['label-phone_extension']['zh-cn'] = "分机";
 $text['label-phone_extension']['ja-jp'] = "拡大";
 $text['label-phone_extension']['ko-kr'] = "확대";
 
@@ -2802,7 +2802,7 @@ $text['label-groups']['ro-ro'] = "Grupuri";
 $text['label-groups']['ru-ru'] = "Группы";
 $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['uk-ua'] = "Групи";
-$text['label-groups']['zh-cn'] = "团体";
+$text['label-groups']['zh-cn'] = "群组";
 $text['label-groups']['ja-jp'] = "グループ";
 $text['label-groups']['ko-kr'] = "여러 떼";
 
@@ -2828,7 +2828,7 @@ $text['label-group']['ro-ro'] = "grup";
 $text['label-group']['ru-ru'] = "Группа";
 $text['label-group']['sv-se'] = "Grupp";
 $text['label-group']['uk-ua'] = "Група";
-$text['label-group']['zh-cn'] = "团体";
+$text['label-group']['zh-cn'] = "群组";
 $text['label-group']['ja-jp'] = "グループ";
 $text['label-group']['ko-kr'] = "그룹";
 
@@ -2932,7 +2932,7 @@ $text['label-extension']['ro-ro'] = "Extensie";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -3270,7 +3270,7 @@ $text['label-contact_setting_value']['ro-ro'] = "Valoare";
 $text['label-contact_setting_value']['ru-ru'] = "Параметр";
 $text['label-contact_setting_value']['sv-se'] = "Värde";
 $text['label-contact_setting_value']['uk-ua'] = "Значення";
-$text['label-contact_setting_value']['zh-cn'] = "价值";
+$text['label-contact_setting_value']['zh-cn'] = "值";
 $text['label-contact_setting_value']['ja-jp'] = "価値";
 $text['label-contact_setting_value']['ko-kr'] = "값";
 
@@ -3634,7 +3634,7 @@ $text['label-contact_relation_name']['ro-ro'] = "Nume";
 $text['label-contact_relation_name']['ru-ru'] = "Имя";
 $text['label-contact_relation_name']['sv-se'] = "Namn";
 $text['label-contact_relation_name']['uk-ua'] = "Назва";
-$text['label-contact_relation_name']['zh-cn'] = "姓名";
+$text['label-contact_relation_name']['zh-cn'] = "名称";
 $text['label-contact_relation_name']['ja-jp'] = "名前";
 $text['label-contact_relation_name']['ko-kr'] = "이름";
 
@@ -3946,7 +3946,7 @@ $text['label-contact_name']['ro-ro'] = "Nume";
 $text['label-contact_name']['ru-ru'] = "Имя";
 $text['label-contact_name']['sv-se'] = "Namn";
 $text['label-contact_name']['uk-ua'] = "Назва";
-$text['label-contact_name']['zh-cn'] = "姓名";
+$text['label-contact_name']['zh-cn'] = "名称";
 $text['label-contact_name']['ja-jp'] = "名前";
 $text['label-contact_name']['ko-kr'] = "이름";
 
@@ -3998,7 +3998,7 @@ $text['label-contact_extensions']['ro-ro'] = "Extensii";
 $text['label-contact_extensions']['ru-ru'] = "Внутренний Номер";
 $text['label-contact_extensions']['sv-se'] = "Anknytningar";
 $text['label-contact_extensions']['uk-ua'] = "Розширення";
-$text['label-contact_extensions']['zh-cn'] = "扩展";
+$text['label-contact_extensions']['zh-cn'] = "分机";
 $text['label-contact_extensions']['ja-jp'] = "拡張機能";
 $text['label-contact_extensions']['ko-kr'] = "확장 프로그램";
 
@@ -5402,7 +5402,7 @@ $text['description-phone_extension']['ro-ro'] = "Introduceți extensia.";
 $text['description-phone_extension']['ru-ru'] = "Введите Внутренний Номер.";
 $text['description-phone_extension']['sv-se'] = "Ange anknytningen.";
 $text['description-phone_extension']['uk-ua'] = "Введіть розширення.";
-$text['description-phone_extension']['zh-cn'] = "输入扩展名。";
+$text['description-phone_extension']['zh-cn'] = "输入分机名。";
 $text['description-phone_extension']['ja-jp'] = "拡張子を入力します。";
 $text['description-phone_extension']['ko-kr'] = "확장자를 입력합니다.";
 
@@ -7222,7 +7222,7 @@ $text['button-save']['ro-ro'] = "Salvați";
 $text['button-save']['ru-ru'] = "Сохранить";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "Зберегти";
-$text['button-save']['zh-cn'] = "节省";
+$text['button-save']['zh-cn'] = "保存";
 $text['button-save']['ja-jp'] = "保存";
 $text['button-save']['ko-kr'] = "구하다";
 

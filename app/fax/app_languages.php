@@ -2129,7 +2129,7 @@ $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Продовжити";
 $text['label-extension']['tr-tr'] = "Eklenti";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -2750,7 +2750,7 @@ $text['label-advanced_settings']['ru-ru'] = "Раширенные Настрой
 $text['label-advanced_settings']['sv-se'] = "Avancerade Inställningar";
 $text['label-advanced_settings']['uk-ua'] = "Розширені налаштування";
 $text['label-advanced_settings']['tr-tr'] = "Gelişmiş Ayarlar";
-$text['label-advanced_settings']['zh-cn'] = "先进环境";
+$text['label-advanced_settings']['zh-cn'] = "高级设置";
 $text['label-advanced_settings']['ja-jp'] = "高度な設定";
 $text['label-advanced_settings']['ko-kr'] = "고급 설정";
 
@@ -2993,7 +2993,7 @@ $text['description-user-add']['ru-ru'] = "Назначьте пользоват�
 $text['description-user-add']['sv-se'] = "Tilldela de användare som kan managera denna fax anknytning.";
 $text['description-user-add']['uk-ua'] = "Призначте користувачів, які можуть керувати цим розширенням факсу.";
 $text['description-user-add']['tr-tr'] = "Bu faks uzantısını yönetebilecek kullanıcıları atayın.";
-$text['description-user-add']['zh-cn'] = "指定能够管理这一传真延期的用户。";
+$text['description-user-add']['zh-cn'] = "指定能够管理这一传真分机的用户。";
 $text['description-user-add']['ja-jp'] = "このFAX拡張機能を管理できるユーザを割り当てます。";
 $text['description-user-add']['ko-kr'] = "이 팩스 확장을 관리 할 수있는 사용자를 할당합니다.";
 
@@ -3101,7 +3101,7 @@ $text['description-forward-number']['ru-ru'] = "Введите здесь ном
 $text['description-forward-number']['sv-se'] = "Ange vidarekopplingsnumret här. Används för att vidarebefordra fax till en registrerad anknytning eller externt nummer.";
 $text['description-forward-number']['uk-ua'] = "Введіть номер мобільного, який Ви вказали при укладаннi договору з банком - для ідентифікації. Використовується для переадресації факсу до зареєстрованого розширення або зовнішнього числа.";
 $text['description-forward-number']['tr-tr'] = "Yönlendirme numarasını buraya girin. Faksı kayıtlı bir dahili numaraya veya harici numaraya iletmek için kullanılır.";
-$text['description-forward-number']['zh-cn'] = "加入前面的编号。 将传真发送到已登记的延期或外部号码。";
+$text['description-forward-number']['zh-cn'] = "加入前面的编号。 将传真发送到已注册的分机或外部号码。";
 $text['description-forward-number']['ja-jp'] = "転送番号を入力してください。 ファクシミリを登録された拡張子または外部番号に転送するために使用されます。";
 $text['description-forward-number']['ko-kr'] = "앞으로 번호를 입력하세요. 등록된 연장 또는 외부 번호로 팩스를 전달하는 데 사용됩니다.";
 
@@ -3965,7 +3965,7 @@ $text['description-fax-sender']['ru-ru'] = "Введите имя отправи
 $text['description-fax-sender']['sv-se'] = "Ange sändarens namn för försättsbladet (frivilligt).";
 $text['description-fax-sender']['uk-ua'] = "Введіть ім'я відправника для листа кришки (за бажанням).";
 $text['description-fax-sender']['tr-tr'] = "Kapak sayfası için gönderenin adını girin (isteğe bağlı).";
-$text['description-fax-sender']['zh-cn'] = "为封面输入发件人姓名（可选）。";
+$text['description-fax-sender']['zh-cn'] = "为封面输入发件人名称（可选）。";
 $text['description-fax-sender']['ja-jp'] = "送付状の差出人の名前を入力します（オプション）。";
 $text['description-fax-sender']['ko-kr'] = "표지의 발신자 이름을 입력합니다(선택 사항).";
 
@@ -4019,7 +4019,7 @@ $text['description-fax-recipient']['ru-ru'] = "Введите имя получ�
 $text['description-fax-recipient']['sv-se'] = "Ange mottagarens namn för försättsbladet (frivilligt).";
 $text['description-fax-recipient']['uk-ua'] = "Введіть ім'я одержувача для листа кришки (за бажанням).";
 $text['description-fax-recipient']['tr-tr'] = "Kapak sayfası için alıcının adını girin (isteğe bağlı).";
-$text['description-fax-recipient']['zh-cn'] = "输入封面的收件人姓名（可选）。";
+$text['description-fax-recipient']['zh-cn'] = "输入封面的收件人名称（可选）。";
 $text['description-fax-recipient']['ja-jp'] = "カバーシートの受信者の名前を入力します (オプション)。";
 $text['description-fax-recipient']['ko-kr'] = "표지의 수신자 이름을 입력합니다(선택 사항).";
 
@@ -4208,7 +4208,7 @@ $text['description-email_outbound_subject_tag']['ru-ru'] = "Установите
 $text['description-email_outbound_subject_tag']['sv-se'] = "Ange E-post ämne för utgående fax.";
 $text['description-email_outbound_subject_tag']['uk-ua'] = "Встановити тег суб'єкта електронної пошти для вихідних факсів.";
 $text['description-email_outbound_subject_tag']['tr-tr'] = "Giden fakslar için e-posta konu etiketini ayarlayın.";
-$text['description-email_outbound_subject_tag']['zh-cn'] = "设置出站传真的电子邮件主题标签。";
+$text['description-email_outbound_subject_tag']['zh-cn'] = "设置呼出传真的电子邮件主题标签。";
 $text['description-email_outbound_subject_tag']['ja-jp'] = "送信 FAX の電子メール件名タグを設定します。";
 $text['description-email_outbound_subject_tag']['ko-kr'] = "아웃바운드 팩스에 대한 이메일 제목 태그를 설정합니다.";
 
@@ -5180,7 +5180,7 @@ $text['fax-active_title_status']['ru-ru'] = "Статус";
 $text['fax-active_title_status']['sv-se'] = "Status";
 $text['fax-active_title_status']['uk-ua'] = "Статус";
 $text['fax-active_title_status']['tr-tr'] = "Durum";
-$text['fax-active_title_status']['zh-cn'] = "地位";
+$text['fax-active_title_status']['zh-cn'] = "状态";
 $text['fax-active_title_status']['ja-jp'] = "スターテス";
 $text['fax-active_title_status']['ko-kr'] = "상태";
 

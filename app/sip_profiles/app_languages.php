@@ -104,7 +104,7 @@ $text['title-sip_profile_domain']['ru-ru'] = "Домен";
 $text['title-sip_profile_domain']['sv-se'] = "Domän";
 $text['title-sip_profile_domain']['uk-ua'] = "Головна";
 $text['title-sip_profile_domain']['tr-tr'] = "İhtisas";
-$text['title-sip_profile_domain']['zh-cn'] = "领域";
+$text['title-sip_profile_domain']['zh-cn'] = "域名";
 $text['title-sip_profile_domain']['ja-jp'] = "ドメイン";
 $text['title-sip_profile_domain']['ko-kr'] = "도메인";
 
@@ -158,7 +158,7 @@ $text['label-sip_profile_name']['ru-ru'] = "Название";
 $text['label-sip_profile_name']['sv-se'] = "Namn";
 $text['label-sip_profile_name']['uk-ua'] = "Назва";
 $text['label-sip_profile_name']['tr-tr'] = "İsim";
-$text['label-sip_profile_name']['zh-cn'] = "姓名";
+$text['label-sip_profile_name']['zh-cn'] = "名称";
 $text['label-sip_profile_name']['ja-jp'] = "名前";
 $text['label-sip_profile_name']['ko-kr'] = "이름";
 
@@ -185,7 +185,7 @@ $text['label-sip_profile_value']['ru-ru'] = "Значение";
 $text['label-sip_profile_value']['sv-se'] = "Värde";
 $text['label-sip_profile_value']['uk-ua'] = "Значення";
 $text['label-sip_profile_value']['tr-tr'] = "Değer";
-$text['label-sip_profile_value']['zh-cn'] = "价值";
+$text['label-sip_profile_value']['zh-cn'] = "值";
 $text['label-sip_profile_value']['ja-jp'] = "価値";
 $text['label-sip_profile_value']['ko-kr'] = "값";
 
@@ -266,7 +266,7 @@ $text['label-sip_profile_domain_name']['ru-ru'] = "Название";
 $text['label-sip_profile_domain_name']['sv-se'] = "Namn";
 $text['label-sip_profile_domain_name']['uk-ua'] = "Назва";
 $text['label-sip_profile_domain_name']['tr-tr'] = "İsim";
-$text['label-sip_profile_domain_name']['zh-cn'] = "姓名";
+$text['label-sip_profile_domain_name']['zh-cn'] = "名称";
 $text['label-sip_profile_domain_name']['ja-jp'] = "名前";
 $text['label-sip_profile_domain_name']['ko-kr'] = "이름";
 
@@ -347,7 +347,7 @@ $text['label-sip_profile_setting_name']['ru-ru'] = "Название";
 $text['label-sip_profile_setting_name']['sv-se'] = "Namn";
 $text['label-sip_profile_setting_name']['uk-ua'] = "Назва";
 $text['label-sip_profile_setting_name']['tr-tr'] = "İsim";
-$text['label-sip_profile_setting_name']['zh-cn'] = "姓名";
+$text['label-sip_profile_setting_name']['zh-cn'] = "名称";
 $text['label-sip_profile_setting_name']['ja-jp'] = "名前";
 $text['label-sip_profile_setting_name']['ko-kr'] = "이름";
 
@@ -374,7 +374,7 @@ $text['label-sip_profile_setting_value']['ru-ru'] = "Значение";
 $text['label-sip_profile_setting_value']['sv-se'] = "Värde";
 $text['label-sip_profile_setting_value']['uk-ua'] = "Значення";
 $text['label-sip_profile_setting_value']['tr-tr'] = "Değer";
-$text['label-sip_profile_setting_value']['zh-cn'] = "价值";
+$text['label-sip_profile_setting_value']['zh-cn'] = "值";
 $text['label-sip_profile_setting_value']['ja-jp'] = "価値";
 $text['label-sip_profile_setting_value']['ko-kr'] = "값";
 

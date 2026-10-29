@@ -23,7 +23,7 @@ $text['title-dialplan-outbound-add']['ru-ru'] = "Маршрутизация Ис
 $text['title-dialplan-outbound-add']['sv-se'] = "Utgående samtalsrutt";
 $text['title-dialplan-outbound-add']['uk-ua'] = "Маршрутизація вихідних дзвінків";
 $text['title-dialplan-outbound-add']['tr-tr'] = "Giden Çağrı Yönlendirme";
-$text['title-dialplan-outbound-add']['zh-cn'] = "出站呼叫路由";
+$text['title-dialplan-outbound-add']['zh-cn'] = "呼出呼叫路由";
 $text['title-dialplan-outbound-add']['ja-jp'] = "アウトバウンドコールルーティング";
 $text['title-dialplan-outbound-add']['ko-kr'] = "발신 통화 라우팅";
 
@@ -131,7 +131,7 @@ $text['message-add-options']['ru-ru'] = "Выберите шлюз для исп
 $text['message-add-options']['sv-se'] = "Välj den gateway som ska användas med den här utgående routen.";
 $text['message-add-options']['uk-ua'] = "Виберіть шлюз для цього вихідного маршруту";
 $text['message-add-options']['tr-tr'] = "Bu giden rota ile kullanılacak ağ geçidini seçin.";
-$text['message-add-options']['zh-cn'] = "选择用于此出站路由的网关。";
+$text['message-add-options']['zh-cn'] = "选择用于此呼出路由的网关。";
 $text['message-add-options']['ja-jp'] = "この送信ルートで使用するゲートウェイを選択します。";
 $text['message-add-options']['ko-kr'] = "이 아웃바운드 경로에 사용할 게이트웨이를 선택하십시오.";
 
@@ -293,7 +293,7 @@ $text['label-outbound-routes']['ru-ru'] = "Исходящие маршруты";
 $text['label-outbound-routes']['sv-se'] = "Utgående rutt";
 $text['label-outbound-routes']['uk-ua'] = "Вихідні маршрути";
 $text['label-outbound-routes']['tr-tr'] = "Giden Rotalar";
-$text['label-outbound-routes']['zh-cn'] = "出境航线";
+$text['label-outbound-routes']['zh-cn'] = "呼出路由";
 $text['label-outbound-routes']['ja-jp'] = "往路";
 $text['label-outbound-routes']['ko-kr'] = "아웃바운드 경로";
 
@@ -1454,7 +1454,7 @@ $text['description-shortcut']['ru-ru'] = "Ярлык для создания з�
 $text['description-shortcut']['sv-se'] = "Genväg för att skapa utgående nummerplan för denna Gateway.";
 $text['description-shortcut']['uk-ua'] = "Ярлик для створення маршрутизації вихідного дзвінка для цього шлюзу.";
 $text['description-shortcut']['tr-tr'] = "اختصار لإنشاء إدخالات خطة الاتصال الصادرة لهذه البوابة.";
-$text['description-shortcut']['zh-cn'] = "为该网关创建出站拨号方案条目的快捷方式。";
+$text['description-shortcut']['zh-cn'] = "为该网关创建呼出拨号方案条目的快捷方式。";
 $text['description-shortcut']['ja-jp'] = "このゲートウェイの発信ダイヤルプラン エントリを作成するためのショートカット。";
 $text['description-shortcut']['ko-kr'] = "이 게이트웨이에 대한 아웃바운드 다이얼플랜 항목을 만드는 바로 가기입니다.";
 
@@ -1481,7 +1481,7 @@ $text['description-outbound-routes']['ru-ru'] = "Исходящие Планы �
 $text['description-outbound-routes']['sv-se'] = "Utgående nummerplan har ett eller flera villkor som matchas till attribut av ett samtal. När ett samtal matchar villkoren ringer sedan samtalet till gateway:en.";
 $text['description-outbound-routes']['uk-ua'] = "Плани набору вихідних дзвінків мають умови, які відповідають  атрибутам дзвінка. Коли дзвінок відповідає умовам, то він спрямовується на шлюзу.";
 $text['description-outbound-routes']['tr-tr'] = "Giden arama planlarında, bir çağrının nitelikleriyle eşleşen bir veya daha fazla koşul bulunur. Bir çağrı koşullarla eşleştiğinde, çağrı ağ geçidine yönlendirilir.";
-$text['description-outbound-routes']['zh-cn'] = "出站拨号方案具有一个或多个与呼叫属性匹配的条件。 当呼叫匹配条件时，呼叫然后被路由到网关。";
+$text['description-outbound-routes']['zh-cn'] = "呼出拨号方案具有一个或多个与呼叫属性匹配的条件。 当呼叫匹配条件时，呼叫然后被路由到网关。";
 $text['description-outbound-routes']['ja-jp'] = "発信ダイヤルプランには、通話の属性に一致する 1 つ以上の条件があります。 コールが条件に一致すると、コールはゲートウェイにルーティングされます。";
 $text['description-outbound-routes']['ko-kr'] = "아웃바운드 다이얼플랜에는 통화 속성과 일치하는 조건이 하나 이상 있습니다. 통화가 조건과 일치하면 통화가 게이트웨이로 라우팅됩니다.";
 
@@ -1589,7 +1589,7 @@ $text['description-enter-custom_outbound_prefix']['ru-ru'] = "Ввод поль�
 $text['description-enter-custom_outbound_prefix']['sv-se'] = "Ange det egna utgående prefixet";
 $text['description-enter-custom_outbound_prefix']['uk-ua'] = "Введіть префікс вихідного дзвінка";
 $text['description-enter-custom_outbound_prefix']['tr-tr'] = "Özel giden öneki girin";
-$text['description-enter-custom_outbound_prefix']['zh-cn'] = "输入自定义出站前缀";
+$text['description-enter-custom_outbound_prefix']['zh-cn'] = "输入自定义呼出前缀";
 $text['description-enter-custom_outbound_prefix']['ja-jp'] = "カスタムの送信プレフィックスを入力してください";
 $text['description-enter-custom_outbound_prefix']['ko-kr'] = "맞춤 아웃바운드 프리픽스를 입력하세요.";
 
@@ -1616,7 +1616,7 @@ $text['description-enabled']['ru-ru'] = "Включить или отключи�
 $text['description-enabled']['sv-se'] = "Välj att aktivera eller inaktivera utgående route.";
 $text['description-enabled']['uk-ua'] = "Виберіть щоб включити або відключити маршрут";
 $text['description-enabled']['tr-tr'] = "Giden rotayı etkinleştirmeyi veya devre dışı bırakmayı seçin.";
-$text['description-enabled']['zh-cn'] = "选择启用或禁用出站路由。";
+$text['description-enabled']['zh-cn'] = "选择启用或禁用呼出路由。";
 $text['description-enabled']['ja-jp'] = "アウトバウンドルートを有効にするか無効にするかを選択します。";
 $text['description-enabled']['ko-kr'] = "아웃바운드 경로를 활성화 또는 비활성화하도록 선택합니다.";
 

@@ -536,7 +536,7 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 $text['label-status']['tr-tr'] = "Durum";
-$text['label-status']['zh-cn'] = "地位";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['ja-jp'] = "スターテス";
 $text['label-status']['ko-kr'] = "상태";
 
@@ -779,7 +779,7 @@ $text['label-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['label-music_on_hold']['sv-se'] = "Väntmusik";
 $text['label-music_on_hold']['uk-ua'] = "Музика на утриманні";
 $text['label-music_on_hold']['tr-tr'] = "Beklemedeki Müzik";
-$text['label-music_on_hold']['zh-cn'] = "保留音乐";
+$text['label-music_on_hold']['zh-cn'] = "等待音乐";
 $text['label-music_on_hold']['ja-jp'] = "保留音";
 $text['label-music_on_hold']['ko-kr'] = "음악 보류";
 
@@ -806,7 +806,7 @@ $text['label-missed']['ru-ru'] = "Пропущенный";
 $text['label-missed']['sv-se'] = "Missade";
 $text['label-missed']['uk-ua'] = "Пропущений";
 $text['label-missed']['tr-tr'] = "Kaçırıldı";
-$text['label-missed']['zh-cn'] = "错过了";
+$text['label-missed']['zh-cn'] = "未接";
 $text['label-missed']['ja-jp'] = "逃した";
 $text['label-missed']['ko-kr'] = "놓친";
 
@@ -887,7 +887,7 @@ $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
 $text['label-extension']['tr-tr'] = "Eklenti";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -1022,7 +1022,7 @@ $text['label-agent']['ru-ru'] = "Оператор";
 $text['label-agent']['sv-se'] = "Agent";
 $text['label-agent']['uk-ua'] = "Агент";
 $text['label-agent']['tr-tr'] = "Ajan";
-$text['label-agent']['zh-cn'] = "代理人";
+$text['label-agent']['zh-cn'] = "代理";
 $text['label-agent']['ja-jp'] = "エージェント";
 $text['label-agent']['ko-kr'] = "대리인";
 

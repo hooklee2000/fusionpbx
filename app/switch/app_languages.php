@@ -77,7 +77,7 @@ $text['label-registrations']['ru-ru'] = "Регистрации SIP";
 $text['label-registrations']['sv-se'] = "Registreringar";
 $text['label-registrations']['uk-ua'] = "Реєстрації";
 $text['label-registrations']['tr-tr'] = "Kayıtlar";
-$text['label-registrations']['zh-cn'] = "登记";
+$text['label-registrations']['zh-cn'] = "注册";
 $text['label-registrations']['ja-jp'] = "登録";
 $text['label-registrations']['ko-kr'] = "등록";
 

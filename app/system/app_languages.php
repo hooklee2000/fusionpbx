@@ -293,7 +293,7 @@ $text['label-running']['ru-ru'] = "Запущено";
 $text['label-running']['sv-se'] = "Löpning";
 $text['label-running']['uk-ua'] = "Запущено";
 $text['label-running']['tr-tr'] = "Koşma";
-$text['label-running']['zh-cn'] = "跑步";
+$text['label-running']['zh-cn'] = "运行中";
 $text['label-running']['ja-jp'] = "ランニング";
 $text['label-running']['ko-kr'] = "달리기";
 
@@ -669,7 +669,7 @@ $text['label-git_status']['ru-ru'] = "Статус";
 $text['label-git_status']['sv-se'] = "Status";
 $text['label-git_status']['uk-ua'] = "Статус";
 $text['label-git_status']['tr-tr'] = "Durum";
-$text['label-git_status']['zh-cn'] = "地位";
+$text['label-git_status']['zh-cn'] = "状态";
 $text['label-git_status']['ja-jp'] = "スターテス";
 $text['label-git_status']['ko-kr'] = "상태";
 
@@ -885,7 +885,7 @@ $text['label-cpu']['ru-ru'] = "Статус процессора";
 $text['label-cpu']['sv-se'] = "CPU Status";
 $text['label-cpu']['uk-ua'] = "Стан процесора ";
 $text['label-cpu']['tr-tr'] = "CPU Durumu";
-$text['label-cpu']['zh-cn'] = "CPU 现况";
+$text['label-cpu']['zh-cn'] = "CPU 状态";
 $text['label-cpu']['ja-jp'] = "CPU ステータス";
 $text['label-cpu']['ko-kr'] = "CPU 상태";
 

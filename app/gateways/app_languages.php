@@ -374,7 +374,7 @@ $text['label-status-running']['ru-ru'] = "Запущено";
 $text['label-status-running']['sv-se'] = "Löpning";
 $text['label-status-running']['uk-ua'] = "Запущено";
 $text['label-status-running']['tr-tr'] = "Koşma";
-$text['label-status-running']['zh-cn'] = "跑步";
+$text['label-status-running']['zh-cn'] = "运行中";
 $text['label-status-running']['ja-jp'] = "ランニング";
 $text['label-status-running']['ko-kr'] = "달리기";
 
@@ -401,7 +401,7 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 $text['label-status']['tr-tr'] = "Durum";
-$text['label-status']['zh-cn'] = "地位";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['ja-jp'] = "スターテス";
 $text['label-status']['ko-kr'] = "상태";
 
@@ -590,7 +590,7 @@ $text['label-register']['ru-ru'] = "Регистрация";
 $text['label-register']['sv-se'] = "Registrera";
 $text['label-register']['uk-ua'] = "Реєстрація";
 $text['label-register']['tr-tr'] = "Kayıt olmak";
-$text['label-register']['zh-cn'] = "登记";
+$text['label-register']['zh-cn'] = "注册";
 $text['label-register']['ja-jp'] = "登録";
 $text['label-register']['ko-kr'] = "등록하다";
 
@@ -644,7 +644,7 @@ $text['label-proxy']['ru-ru'] = "Прокси";
 $text['label-proxy']['sv-se'] = "Ombud";
 $text['label-proxy']['uk-ua'] = "Проксі";
 $text['label-proxy']['tr-tr'] = "vekil";
-$text['label-proxy']['zh-cn'] = "代理人";
+$text['label-proxy']['zh-cn'] = "代理";
 $text['label-proxy']['ja-jp'] = "プロキシー";
 $text['label-proxy']['ko-kr'] = "대리";
 
@@ -671,7 +671,7 @@ $text['label-profile']['ru-ru'] = "Профиль";
 $text['label-profile']['sv-se'] = "Profil";
 $text['label-profile']['uk-ua'] = "Профіль";
 $text['label-profile']['tr-tr'] = "Profil";
-$text['label-profile']['zh-cn'] = "轮廓";
+$text['label-profile']['zh-cn'] = "个人资料";
 $text['label-profile']['ja-jp'] = "プロフィール";
 $text['label-profile']['ko-kr'] = "프로필";
 
@@ -779,7 +779,7 @@ $text['label-contact_in_ping']['ru-ru'] = "Контакты в Пинг";
 $text['label-contact_in_ping']['sv-se'] = "Kontakt i ping";
 $text['label-contact_in_ping']['uk-ua'] = "Контакти";
 $text['label-contact_in_ping']['tr-tr'] = "Ping'de iletişim";
-$text['label-contact_in_ping']['zh-cn'] = "联系人在平";
+$text['label-contact_in_ping']['zh-cn'] = "联系人在ping";
 $text['label-contact_in_ping']['ja-jp'] = "Pingで連絡する";
 $text['label-contact_in_ping']['ko-kr'] = "핑에서 연락";
 
@@ -833,7 +833,7 @@ $text['label-outbound_proxy']['ru-ru'] = "Исходящий прокси-сер
 $text['label-outbound_proxy']['sv-se'] = "Utgående Proxy";
 $text['label-outbound_proxy']['uk-ua'] = "Вихідний проксі";
 $text['label-outbound_proxy']['tr-tr'] = "Giden Proxy";
-$text['label-outbound_proxy']['zh-cn'] = "出站代理";
+$text['label-outbound_proxy']['zh-cn'] = "呼出代理";
 $text['label-outbound_proxy']['ja-jp'] = "アウトバウンドプロキシ";
 $text['label-outbound_proxy']['ko-kr'] = "아웃바운드 프록시";
 
@@ -968,7 +968,7 @@ $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
 $text['label-extension']['tr-tr'] = "Eklenti";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -1049,7 +1049,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -1103,7 +1103,7 @@ $text['label-context']['ru-ru'] = "Контекст";
 $text['label-context']['sv-se'] = "Sammanhang";
 $text['label-context']['uk-ua'] = "Контекст";
 $text['label-context']['tr-tr'] = "Bağlam";
-$text['label-context']['zh-cn'] = "语境";
+$text['label-context']['zh-cn'] = "上下文";
 $text['label-context']['ja-jp'] = "コンテクスト";
 $text['label-context']['ko-kr'] = "문맥";
 
@@ -1751,7 +1751,7 @@ $text['description-outbound_proxy']['ru-ru'] = "Введите IP-адрес и�
 $text['description-outbound_proxy']['sv-se'] = "Ange värdnamn eller IP-adress för utgående proxy. (Detta kan ta formatet för värd:port)";
 $text['description-outbound_proxy']['uk-ua'] = "Введіть ім'я хоста або IP-адресу вихідного проксі. (Це може мати формат host:port)";
 $text['description-outbound_proxy']['tr-tr'] = "Giden proxy'nin ana bilgisayar adını veya IP adresini girin. ana bilgisayar bağlantı noktası]";
-$text['description-outbound_proxy']['zh-cn'] = "输入出站代理的主机名或 IP 地址。 主机[：端口]";
+$text['description-outbound_proxy']['zh-cn'] = "输入呼出代理的主机名或 IP 地址。 主机[：端口]";
 $text['description-outbound_proxy']['ja-jp'] = "送信プロキシのホスト名または IP アドレスを入力します。 ホスト[:ポート]";
 $text['description-outbound_proxy']['ko-kr'] = "아웃바운드 프록시의 호스트 이름 또는 IP 주소를 입력합니다. 호스트[:포트]";
 
@@ -1940,7 +1940,7 @@ $text['description-extension']['ru-ru'] = "Введите внутренний �
 $text['description-extension']['sv-se'] = "Ange anknytningen här.";
 $text['description-extension']['uk-ua'] = "Введіть розширення";
 $text['description-extension']['tr-tr'] = "Uzantıyı buraya girin.";
-$text['description-extension']['zh-cn'] = "在此处输入扩展名。";
+$text['description-extension']['zh-cn'] = "在此处输入分机名。";
 $text['description-extension']['ja-jp'] = "ここに拡張子を入力します。";
 $text['description-extension']['ko-kr'] = "여기에 확장자를 입력합니다.";
 

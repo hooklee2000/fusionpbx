@@ -158,7 +158,7 @@ $text['description-user_uuid']['ru-ru'] = "Транзакции пользова
 $text['description-user_uuid']['sv-se'] = "Användar transaktion";
 $text['description-user_uuid']['uk-ua'] = "Операція користувача.";
 $text['description-user_uuid']['tr-tr'] = "Kullanıcı işlemi.";
-$text['description-user_uuid']['zh-cn'] = "用户交易。";
+$text['description-user_uuid']['zh-cn'] = "用户事务。";
 $text['description-user_uuid']['ja-jp'] = "ユーザー取引。";
 $text['description-user_uuid']['ko-kr'] = "사용자 거래.";
 
@@ -320,7 +320,7 @@ $text['description-transaction_code']['ru-ru'] = "Код транзакции.";
 $text['description-transaction_code']['sv-se'] = "Transaktion kod.";
 $text['description-transaction_code']['uk-ua'] = "Код транзакції.";
 $text['description-transaction_code']['tr-tr'] = "İşlem kodu.";
-$text['description-transaction_code']['zh-cn'] = "交易代码。";
+$text['description-transaction_code']['zh-cn'] = "事务代码。";
 $text['description-transaction_code']['ja-jp'] = "取引コード。";
 $text['description-transaction_code']['ko-kr'] = "트랜잭션 코드.";
 
@@ -482,7 +482,7 @@ $text['description-transaction_date']['ru-ru'] = "Дата транзакции.
 $text['description-transaction_date']['sv-se'] = "Transaktions datum.";
 $text['description-transaction_date']['uk-ua'] = "Дата операції.";
 $text['description-transaction_date']['tr-tr'] = "İşlem tarihi.";
-$text['description-transaction_date']['zh-cn'] = "交易日期。";
+$text['description-transaction_date']['zh-cn'] = "事务日期。";
 $text['description-transaction_date']['ja-jp'] = "取引日。";
 $text['description-transaction_date']['ko-kr'] = "거래 날짜.";
 
@@ -536,7 +536,7 @@ $text['description-transaction_old']['ru-ru'] = "Массив перед тра�
 $text['description-transaction_old']['sv-se'] = "Array före transaktionen.";
 $text['description-transaction_old']['uk-ua'] = "Проти операції.";
 $text['description-transaction_old']['tr-tr'] = "İşlemden önceki dizi.";
-$text['description-transaction_old']['zh-cn'] = "交易前的数组。";
+$text['description-transaction_old']['zh-cn'] = "事务前的数组。";
 $text['description-transaction_old']['ja-jp'] = "トランザクション前の配列。";
 $text['description-transaction_old']['ko-kr'] = "거래 전 배열.";
 
@@ -590,7 +590,7 @@ $text['description-transaction_new']['ru-ru'] = "Массив после тра�
 $text['description-transaction_new']['sv-se'] = "Array efter transaktionen.";
 $text['description-transaction_new']['uk-ua'] = "Проводити після операції.";
 $text['description-transaction_new']['tr-tr'] = "İşlem sonrası dizi.";
-$text['description-transaction_new']['zh-cn'] = "交易后的数组。";
+$text['description-transaction_new']['zh-cn'] = "事务后的数组。";
 $text['description-transaction_new']['ja-jp'] = "トランザクション後の配列。";
 $text['description-transaction_new']['ko-kr'] = "트랜잭션 후 배열.";
 
@@ -644,7 +644,7 @@ $text['description-transaction_result']['ru-ru'] = "Результат тран�
 $text['description-transaction_result']['sv-se'] = "Resultat av transaktionen.";
 $text['description-transaction_result']['uk-ua'] = "Результат операції.";
 $text['description-transaction_result']['tr-tr'] = "İşlemin sonucu.";
-$text['description-transaction_result']['zh-cn'] = "交易的结果。";
+$text['description-transaction_result']['zh-cn'] = "事务的结果。";
 $text['description-transaction_result']['ja-jp'] = "トランザクションの結果。";
 $text['description-transaction_result']['ko-kr'] = "거래 결과.";
 
@@ -806,7 +806,7 @@ $text['button-save']['ru-ru'] = "Сохранить";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "Зберегти";
 $text['button-save']['tr-tr'] = "Kaydetmek";
-$text['button-save']['zh-cn'] = "节省";
+$text['button-save']['zh-cn'] = "保存";
 $text['button-save']['ja-jp'] = "保存";
 $text['button-save']['ko-kr'] = "구하다";
 

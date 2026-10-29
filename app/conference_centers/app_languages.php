@@ -126,7 +126,7 @@ $text['label-conference_center_name']['ro-ro'] = "Nume";
 $text['label-conference_center_name']['ru-ru'] = "Имя";
 $text['label-conference_center_name']['sv-se'] = "Namn";
 $text['label-conference_center_name']['uk-ua'] = "Назва";
-$text['label-conference_center_name']['zh-cn'] = "姓名";
+$text['label-conference_center_name']['zh-cn'] = "名称";
 $text['label-conference_center_name']['ja-jp'] = "お名前";
 $text['label-conference_center_name']['ko-kr'] = "이름";
 
@@ -178,7 +178,7 @@ $text['label-conference_center_extension']['ro-ro'] = "Estensione";
 $text['label-conference_center_extension']['ru-ru'] = "Внутренний номер";
 $text['label-conference_center_extension']['sv-se'] = "Anknytning";
 $text['label-conference_center_extension']['uk-ua'] = "Розширення (Extention)";
-$text['label-conference_center_extension']['zh-cn'] = "延期";
+$text['label-conference_center_extension']['zh-cn'] = "分机";
 $text['label-conference_center_extension']['ja-jp'] = "エクステンション";
 $text['label-conference_center_extension']['ko-kr'] = "제품 정보";
 
@@ -230,7 +230,7 @@ $text['label-conference_center_pin_length']['ro-ro'] = "Lungimea PIN-ului";
 $text['label-conference_center_pin_length']['ru-ru'] = "Длина PIN кода";
 $text['label-conference_center_pin_length']['sv-se'] = "Pinkod längd";
 $text['label-conference_center_pin_length']['uk-ua'] = "Довжина PIN-коду ";
-$text['label-conference_center_pin_length']['zh-cn'] = "胎体长度";
+$text['label-conference_center_pin_length']['zh-cn'] = "PIN长度";
 $text['label-conference_center_pin_length']['ja-jp'] = "PINの長さ";
 $text['label-conference_center_pin_length']['ko-kr'] = "PIN 길이";
 
@@ -334,7 +334,7 @@ $text['label-conference_center_greeting']['ro-ro'] = "Salut";
 $text['label-conference_center_greeting']['ru-ru'] = "Приветствие";
 $text['label-conference_center_greeting']['sv-se'] = "Hälsning";
 $text['label-conference_center_greeting']['uk-ua'] = "Привітання";
-$text['label-conference_center_greeting']['zh-cn'] = "招标";
+$text['label-conference_center_greeting']['zh-cn'] = "欢迎";
 $text['label-conference_center_greeting']['ja-jp'] = "お問い合わせ";
 $text['label-conference_center_greeting']['ko-kr'] = "주요연혁";
 
@@ -1036,7 +1036,7 @@ $text['label-sounds']['ro-ro'] = "Sunete";
 $text['label-sounds']['ru-ru'] = "Звуки";
 $text['label-sounds']['sv-se'] = "Ljud";
 $text['label-sounds']['uk-ua'] = "Мелодії";
-$text['label-sounds']['zh-cn'] = "固体";
+$text['label-sounds']['zh-cn'] = "声音";
 $text['label-sounds']['ja-jp'] = "サウンド";
 $text['label-sounds']['ko-kr'] = "언어 선택";
 
@@ -1296,7 +1296,7 @@ $text['label-mute']['ro-ro'] = "Mut";
 $text['label-mute']['ru-ru'] = "Отключить микрофон";
 $text['label-mute']['sv-se'] = "Mikrofon Av";
 $text['label-mute']['uk-ua'] = "Приглушити";
-$text['label-mute']['zh-cn'] = "沉默的";
+$text['label-mute']['zh-cn'] = "静音";
 $text['label-mute']['ja-jp'] = "ミュート";
 $text['label-mute']['ko-kr'] = "이름";
 
@@ -1790,7 +1790,7 @@ $text['label-announce_name']['ro-ro'] = "Anunțați numele";
 $text['label-announce_name']['ru-ru'] = "Анонс";
 $text['label-announce_name']['sv-se'] = "Meddela Namn";
 $text['label-announce_name']['uk-ua'] = "Анонс";
-$text['label-announce_name']['zh-cn'] = "姓名";
+$text['label-announce_name']['zh-cn'] = "名称";
 $text['label-announce_name']['ja-jp'] = "発表者名";
 $text['label-announce_name']['ko-kr'] = "이름";
 
@@ -1816,7 +1816,7 @@ $text['label-announce_count']['ro-ro'] = "Anunțați numărul";
 $text['label-announce_count']['ru-ru'] = "Анонс";
 $text['label-announce_count']['sv-se'] = "Meddela Antal";
 $text['label-announce_count']['uk-ua'] = "Анонс";
-$text['label-announce_count']['zh-cn'] = "Announce州";
+$text['label-announce_count']['zh-cn'] = "发布数";
 $text['label-announce_count']['ja-jp'] = "カウントを発表";
 $text['label-announce_count']['ko-kr'] = "공지사항";
 
@@ -1842,7 +1842,7 @@ $text['label-announce_recording']['ro-ro'] = "Anunțați înregistrarea";
 $text['label-announce_recording']['ru-ru'] = "Анонс";
 $text['label-announce_recording']['sv-se'] = "Meddela Inspelning";
 $text['label-announce_recording']['uk-ua'] = "Анонс";
-$text['label-announce_recording']['zh-cn'] = "放弃记录";
+$text['label-announce_recording']['zh-cn'] = "发布录音";
 $text['label-announce_recording']['ja-jp'] = "記録発表";
 $text['label-announce_recording']['ko-kr'] = "공지사항";
 

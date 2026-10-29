@@ -212,7 +212,7 @@ $text['title-outbound_routes']['ru-ru'] = "Исходящие маршруты";
 $text['title-outbound_routes']['sv-se'] = "Utgående rutter";
 $text['title-outbound_routes']['uk-ua'] = "Маршрути вихідних дзвінків";
 $text['title-outbound_routes']['tr-tr'] = "Giden Rotalar";
-$text['title-outbound_routes']['zh-cn'] = "出境航线";
+$text['title-outbound_routes']['zh-cn'] = "呼出路由";
 $text['title-outbound_routes']['ja-jp'] = "往路";
 $text['title-outbound_routes']['ko-kr'] = "아웃바운드 경로";
 
@@ -239,7 +239,7 @@ $text['title-inbound_routes']['ru-ru'] = "Входящие маршруты";
 $text['title-inbound_routes']['sv-se'] = "Inkommande rutter";
 $text['title-inbound_routes']['uk-ua'] = "Маршрути вхідних дзвінків";
 $text['title-inbound_routes']['tr-tr'] = "Gelen Rotalar";
-$text['title-inbound_routes']['zh-cn'] = "入境航线";
+$text['title-inbound_routes']['zh-cn'] = "呼入路由";
 $text['title-inbound_routes']['ja-jp'] = "復路";
 $text['title-inbound_routes']['ko-kr'] = "인바운드 경로";
 
@@ -1103,7 +1103,7 @@ $text['option-context']['ru-ru'] = "Контекст";
 $text['option-context']['sv-se'] = "Sammanhang";
 $text['option-context']['uk-ua'] = "Контекст";
 $text['option-context']['tr-tr'] = "Bağlam";
-$text['option-context']['zh-cn'] = "语境";
+$text['option-context']['zh-cn'] = "上下文";
 $text['option-context']['ja-jp'] = "コンテクスト";
 $text['option-context']['ko-kr'] = "문맥";
 
@@ -1535,7 +1535,7 @@ $text['label-group']['ru-ru'] = "Группа";
 $text['label-group']['sv-se'] = "Grupp";
 $text['label-group']['uk-ua'] = "Група";
 $text['label-group']['tr-tr'] = "Grup";
-$text['label-group']['zh-cn'] = "团体";
+$text['label-group']['zh-cn'] = "群组";
 $text['label-group']['ja-jp'] = "グループ";
 $text['label-group']['ko-kr'] = "그룹";
 
@@ -1616,7 +1616,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -1751,7 +1751,7 @@ $text['label-context']['ru-ru'] = "Контекст";
 $text['label-context']['sv-se'] = "Sammanhang";
 $text['label-context']['uk-ua'] = "Контекст";
 $text['label-context']['tr-tr'] = "Bağlam";
-$text['label-context']['zh-cn'] = "语境";
+$text['label-context']['zh-cn'] = "上下文";
 $text['label-context']['ja-jp'] = "コンテクスト";
 $text['label-context']['ko-kr'] = "문맥";
 
@@ -1967,7 +1967,7 @@ $text['header-outbound_routes']['ru-ru'] = "Исходящий Маршрут";
 $text['header-outbound_routes']['sv-se'] = "Utgående rutter";
 $text['header-outbound_routes']['uk-ua'] = "Вихідні маршрути";
 $text['header-outbound_routes']['tr-tr'] = "Giden Rotalar";
-$text['header-outbound_routes']['zh-cn'] = "出境航线";
+$text['header-outbound_routes']['zh-cn'] = "呼出路由";
 $text['header-outbound_routes']['ja-jp'] = "往路";
 $text['header-outbound_routes']['ko-kr'] = "아웃바운드 경로";
 
@@ -1994,7 +1994,7 @@ $text['header-inbound_routes']['ru-ru'] = "Входящий Маршрут";
 $text['header-inbound_routes']['sv-se'] = "Inkommande rutter";
 $text['header-inbound_routes']['uk-ua'] = "Маршрути вхідних дзвінків";
 $text['header-inbound_routes']['tr-tr'] = "Gelen Rotalar";
-$text['header-inbound_routes']['zh-cn'] = "入境航线";
+$text['header-inbound_routes']['zh-cn'] = "呼入路由";
 $text['header-inbound_routes']['ja-jp'] = "復路";
 $text['header-inbound_routes']['ko-kr'] = "인바운드 경로";
 
@@ -2237,7 +2237,7 @@ $text['description-outbound_routes']['ru-ru'] = "Маршрутизация ис
 $text['description-outbound_routes']['sv-se'] = "Styr utgående samtal till Gateways, tdm, enum mm. När ett samtal matchar villkoren så styrs samtalet till utgående route.";
 $text['description-outbound_routes']['uk-ua'] = "Спрямовує вихідні дзвінки на шлюзи, TDM, ENUM на інше, якщо дзвінок відповідає умовам вихідної маршрутизації.";
 $text['description-outbound_routes']['tr-tr'] = "Giden aramaları ağ geçitlerine, tdm'ye, enum'a ve daha fazlasına yönlendirin. Bir arama koşullarla eşleştiğinde arama giden rotalara yönlendirilir.";
-$text['description-outbound_routes']['zh-cn'] = "将出站呼叫路由到网关、tdm、枚举等。 当呼叫符合条件时呼叫出站路由。";
+$text['description-outbound_routes']['zh-cn'] = "将呼出呼叫路由到网关、tdm、枚举等。 当呼叫符合条件时呼叫呼出路由。";
 $text['description-outbound_routes']['ja-jp'] = "発信通話をゲートウェイ、tdm、enum などにルーティングします。 コールが条件に一致すると、コールは発信ルートに転送されます。";
 $text['description-outbound_routes']['ko-kr'] = "아웃바운드 통화를 게이트웨이, tdm, enum 등으로 라우팅합니다. 통화가 아웃바운드 경로에 대한 통화 조건과 일치하는 경우.";
 

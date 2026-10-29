@@ -48,7 +48,7 @@ $text['title-follow_me']['ro-ro'] = "Urmați-mă";
 $text['title-follow_me']['ru-ru'] = "Перенаправление";
 $text['title-follow_me']['sv-se'] = "Följ mig";
 $text['title-follow_me']['uk-ua'] = "Слідуй за мною";
-$text['title-follow_me']['zh-cn'] = "跟我来";
+$text['title-follow_me']['zh-cn'] = "转接";
 $text['title-follow_me']['ja-jp'] = "フォローしてください";
 $text['title-follow_me']['ko-kr'] = "나를 따르라";
 
@@ -126,7 +126,7 @@ $text['table-extension']['ro-ro'] = "Extensie";
 $text['table-extension']['ru-ru'] = "Внутренний номер";
 $text['table-extension']['sv-se'] = "Anknytning";
 $text['table-extension']['uk-ua'] = "Розширення (Extention)";
-$text['table-extension']['zh-cn'] = "扩大";
+$text['table-extension']['zh-cn'] = "分机";
 $text['table-extension']['ja-jp'] = "拡大";
 $text['table-extension']['ko-kr'] = "확대";
 
@@ -334,7 +334,7 @@ $text['label-no_answer']['ro-ro'] = "No Answer";
 $text['label-no_answer']['ru-ru'] = "Нет ответа";
 $text['label-no_answer']['sv-se'] = "Inget Svar";
 $text['label-no_answer']['uk-ua'] = "Без відповіді";
-$text['label-no_answer']['zh-cn'] = "没有答案";
+$text['label-no_answer']['zh-cn'] = "无应答";
 $text['label-no_answer']['ja-jp'] = "無回答";
 $text['label-no_answer']['ko-kr'] = "대답 없음";
 
@@ -412,7 +412,7 @@ $text['label-follow_me']['ro-ro'] = "Urmați-mă";
 $text['label-follow_me']['ru-ru'] = "Перенаправление";
 $text['label-follow_me']['sv-se'] = "Följ mig";
 $text['label-follow_me']['uk-ua'] = "Слідуй за мною";
-$text['label-follow_me']['zh-cn'] = "跟我来";
+$text['label-follow_me']['zh-cn'] = "转接";
 $text['label-follow_me']['ja-jp'] = "フォローしてください";
 $text['label-follow_me']['ko-kr'] = "나를 따르라";
 

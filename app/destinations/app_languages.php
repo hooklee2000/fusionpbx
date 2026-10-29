@@ -240,7 +240,7 @@ $text['button-outbound']['ru-ru'] = "Исходящий";
 $text['button-outbound']['sv-se'] = "Utgående";
 $text['button-outbound']['uk-ua'] = "Вихідний";
 $text['button-outbound']['tr-tr'] = "Giden";
-$text['button-outbound']['zh-cn'] = "出站";
+$text['button-outbound']['zh-cn'] = "呼出";
 $text['button-outbound']['ja-jp'] = "アウトバウンド";
 $text['button-outbound']['ko-kr'] = "배 밖으로";
 
@@ -267,7 +267,7 @@ $text['button-inbound']['ru-ru'] = "Входящий";
 $text['button-inbound']['sv-se'] = "Inkommande";
 $text['button-inbound']['uk-ua'] = "Вхідний";
 $text['button-inbound']['tr-tr'] = "Gelen";
-$text['button-inbound']['zh-cn'] = "入境";
+$text['button-inbound']['zh-cn'] = "呼出";
 $text['button-inbound']['ja-jp'] = "インバウンド";
 $text['button-inbound']['ko-kr'] = "인바운드";
 
@@ -321,7 +321,7 @@ $text['option-inbound']['ru-ru'] = "Входящий";
 $text['option-inbound']['sv-se'] = "Inkommande";
 $text['option-inbound']['uk-ua'] = "Вхідний";
 $text['option-inbound']['tr-tr'] = "Gelen";
-$text['option-inbound']['zh-cn'] = "入境";
+$text['option-inbound']['zh-cn'] = "呼出";
 $text['option-inbound']['ja-jp'] = "インバウンド";
 $text['option-inbound']['ko-kr'] = "인바운드";
 
@@ -348,7 +348,7 @@ $text['option-outbound']['ru-ru'] = "Исходящий";
 $text['option-outbound']['sv-se'] = "Utgående";
 $text['option-outbound']['uk-ua'] = "Вихідний";
 $text['option-outbound']['tr-tr'] = "Giden";
-$text['option-outbound']['zh-cn'] = "出站";
+$text['option-outbound']['zh-cn'] = "呼出";
 $text['option-outbound']['ja-jp'] = "アウトバウンド";
 $text['option-outbound']['ko-kr'] = "배 밖으로";
 
@@ -699,7 +699,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -969,7 +969,7 @@ $text['label-destination_context']['ru-ru'] = "Контекст";
 $text['label-destination_context']['sv-se'] = "Context";
 $text['label-destination_context']['uk-ua'] = "Контекст";
 $text['label-destination_context']['tr-tr'] = "Bağlam";
-$text['label-destination_context']['zh-cn'] = "语境";
+$text['label-destination_context']['zh-cn'] = "上下文";
 $text['label-destination_context']['ja-jp'] = "コンテクスト";
 $text['label-destination_context']['ko-kr'] = "문맥";
 
@@ -1700,7 +1700,7 @@ $text['description-monthly_price_buy']['ru-ru'] = "Введите ежемеся
 $text['description-monthly_price_buy']['sv-se'] = "Ange pris per månad som du betalar för denna destination (endast vid inkommande)";
 $text['description-monthly_price_buy']['uk-ua'] = "Введіть щомісячний тариф, який оплачуєте за цей номер (тільки для вхідних)";
 $text['description-monthly_price_buy']['tr-tr'] = "Bu varış noktası için ödeyeceğiniz aylık ücreti girin (yalnızca gelirken)";
-$text['description-monthly_price_buy']['zh-cn'] = "输入您为此目的地支付的月度价格（仅在入境时）";
+$text['description-monthly_price_buy']['zh-cn'] = "输入您为此目的地支付的月度价格（仅在呼出时）";
 $text['description-monthly_price_buy']['ja-jp'] = "この目的地に対して支払う月額料金を入力してください (受信時のみ)";
 $text['description-monthly_price_buy']['ko-kr'] = "이 목적지에 대해 지불하는 월별 요금을 입력하세요(인바운드인 경우에만).";
 
@@ -1727,7 +1727,7 @@ $text['description-monthly_price']['ru-ru'] = "Введите месячную �
 $text['description-monthly_price']['sv-se'] = "Ange pris per månad till kund för denna destination (endast vid inkommande)";
 $text['description-monthly_price']['uk-ua'] = "Введіть щомісячний тариф для абонентів за цей номер (тільки для вхідних)";
 $text['description-monthly_price']['tr-tr'] = "Bu varış noktası için faturalandırılacak aylık fiyatı girin (yalnızca geldiğinizde)";
-$text['description-monthly_price']['zh-cn'] = "输入此目的地的月度价格（仅在入境时）";
+$text['description-monthly_price']['zh-cn'] = "输入此目的地的月度价格（仅在呼出时）";
 $text['description-monthly_price']['ja-jp'] = "この宛先に対して請求する月額料金を入力してください (受信時のみ)";
 $text['description-monthly_price']['ko-kr'] = "이 목적지에 대해 청구할 월별 요금을 입력하세요(인바운드인 경우에만).";
 
@@ -1862,7 +1862,7 @@ $text['description-destination_map']['ru-ru'] = "Карта назначений
 $text['description-destination_map']['sv-se'] = "Destinationskartan är en lista över alla definierade destinationer som till exempel extensioner, röstbrevlådor, ringgrupp, IVR-menyer, konferenser och mer.";
 $text['description-destination_map']['uk-ua'] = "Карта призначень — це список усіх визначених призначень, таких як розширення, голосові поштові скриньки, група дзвінків, меню IVR, конференції та багато іншого.";
 $text['description-destination_map']['tr-tr'] = "Hedef haritası, uzantılar, sesli postalar, arama grubu, IVR menüleri, konferanslar ve daha fazlası gibi tanımlanmış tüm hedeflerin listesidir.";
-$text['description-destination_map']['zh-cn'] = "目的地图是所有已定义目的地的列表，例如扩展、语音信箱、呼叫组、IVR菜单、会议和更多。";
+$text['description-destination_map']['zh-cn'] = "目的地图是所有已定义目的地的列表，例如分机、语音信箱、呼叫组、IVR菜单、会议和更多。";
 $text['description-destination_map']['ja-jp'] = "目的地マップは、拡張、音声メール、リンググループ、IVRメニュー、会議など、定義されたすべての目的地のリストです。";
 $text['description-destination_map']['ko-kr'] = "목적지 맵은 확장, 음성 메일, 링 그룹, IVR 메뉴, 회의 등 정의된 모든 목적지의 목록입니다.";
 

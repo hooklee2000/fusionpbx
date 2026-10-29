@@ -455,7 +455,7 @@ $text['label-email_status']['ru-ru'] = "Статус";
 $text['label-email_status']['sv-se'] = "status";
 $text['label-email_status']['uk-ua'] = "Статус на сервери";
 $text['label-email_status']['tr-tr'] = "Durum";
-$text['label-email_status']['zh-cn'] = "地位";
+$text['label-email_status']['zh-cn'] = "状态";
 $text['label-email_status']['ja-jp'] = "スターテス";
 $text['label-email_status']['ko-kr'] = "상태";
 
@@ -887,7 +887,7 @@ $text['header-connection']['ru-ru'] = "Подключение";
 $text['header-connection']['sv-se'] = "Anslutning";
 $text['header-connection']['uk-ua'] = "Підключення";
 $text['header-connection']['tr-tr'] = "Bağlantı";
-$text['header-connection']['zh-cn'] = "联系";
+$text['header-connection']['zh-cn'] = "连接";
 $text['header-connection']['ja-jp'] = "繋がり";
 $text['header-connection']['ko-kr'] = "연결";
 

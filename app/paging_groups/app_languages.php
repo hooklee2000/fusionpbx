@@ -49,7 +49,7 @@
 		$text['title_description-paging_groups']['sv-se'] = 'En personsökningsutökning rufas för att starta ett gruppsamtal över flera utökningar. Den skickar ett automatiskt svarsmeddelande till telefonen så att den svarar på samtalet i högtalarläge. Den kan användas för meddelanden, nödlarm, inklusive enkel- och tvåvägskommunikation.';
 		$text['title_description-paging_groups']['uk-ua'] = 'Розширення оповічання викликається для початку групового дзвінка на кількох розширеннях. Воно надсилає автоматичне повідомлення відповіді на телефон, щоб той відповів на дзвінок через динамік. Можна використовувати для оголошень, аварійних сповіщень, включно з одностороннім і двостороннім зв’язком.';
 		$text['title_description-paging_groups']['tr-tr'] = 'Bir sayfa numarası aranarak birden çok ekleme arasında grup çağrısı başlatılır. Telefonun hoparlörle çağrıyı kabul etmesi için otomatik cevap mesajı gönderilir. Tek yönlü ve çift yönlü iletişim de dahil olmak üzere duyurular ve acil durum uyarıları için kullanılabilir.';
-		$text['title_description-paging_groups']['zh-cn'] = '呼叫寻呼扩展以在多个扩展之间发起群组呼叫。它向电话发送自动应答消息，使电话通过扬声器接听呼叫。可用于通知、紧急警报，包括单向和双向通讯。';
+		$text['title_description-paging_groups']['zh-cn'] = '呼叫寻呼分机以在多个分机之间发起群组呼叫。它向电话发送自动应答消息，使电话通过扬声器接听呼叫。可用于通知、紧急警报，包括单向和双向通讯。';
 		$text['title_description-paging_groups']['ja-jp'] = 'ページング拡張を呼び出すと、複数の拡張機能間でグループ通話を開始します。電話に自動応答メッセージを送信し、スピーカーフォンで着信に応答します。一方的および双方向の通話を含むアナウンスや緊急警報に使用できます。';
 		$text['title_description-paging_groups']['ko-kr'] = '페이지팅 번호를 호출하여 여러 확장 사이에서 그룹 통화를 시작합니다. 전화기에 자동 응답 메시지를 보내 스피커폰으로 통화에 응답하도록 합니다. 공지, 긴급 경보, 양방향 및 일방향 통신을 포함하여 사용할 수 있습니다.';
 
@@ -128,7 +128,7 @@
 		$text['label-paging_group_extension']['sv-se'] = 'Utskoning';
 		$text['label-paging_group_extension']['uk-ua'] = 'Розширення';
 		$text['label-paging_group_extension']['tr-tr'] = 'Eklenti';
-		$text['label-paging_group_extension']['zh-cn'] = '扩展';
+		$text['label-paging_group_extension']['zh-cn'] = '分机';
 		$text['label-paging_group_extension']['ja-jp'] = '拡張';
 		$text['label-paging_group_extension']['ko-kr'] = '확장';
 
@@ -154,7 +154,7 @@
 		$text['description-paging_group_extension']['sv-se'] = 'Ange utökningens nummer.';
 		$text['description-paging_group_extension']['uk-ua'] = 'Введіть номер розширення.';
 		$text['description-paging_group_extension']['tr-tr'] = 'Eklenti numarasını girin.';
-		$text['description-paging_group_extension']['zh-cn'] = '输入扩展号码。';
+		$text['description-paging_group_extension']['zh-cn'] = '输入分机号码。';
 		$text['description-paging_group_extension']['ja-jp'] = '拡張番号を入力してください。';
 		$text['description-paging_group_extension']['ko-kr'] = '확장 번호를 입력하세요.';
 
