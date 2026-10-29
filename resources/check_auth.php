@@ -128,10 +128,6 @@
 			if (empty($_SESSION['authorized']) || !$_SESSION['authorized']) {
 				//log the failed auth attempt to the system to the syslog server
 				openlog('FusionPBX', LOG_NDELAY, LOG_AUTH);
-<<<<<<< HEAD
-=======
-
->>>>>>> 5.6
 				//strip newlines/tabs to prevent log injection
 				$failed_username = preg_replace('/[\r\n\t]/', '', (string)($result["username"] ?? ''));
 				syslog(LOG_WARNING, '['.$_SERVER['REMOTE_ADDR']."] authentication failed for ".$failed_username);
