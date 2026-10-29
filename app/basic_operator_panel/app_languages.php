@@ -347,7 +347,7 @@ $text['label-other_extensions']['ru-ru'] = "Другие внутренние н
 $text['label-other_extensions']['sv-se'] = "Annan Anknytning";
 $text['label-other_extensions']['uk-ua'] = "Інші розширення";
 $text['label-other_extensions']['tr-tr'] = "Diğer Uzantılar";
-$text['label-other_extensions']['zh-cn'] = "其他扩展";
+$text['label-other_extensions']['zh-cn'] = "其他分机";
 $text['label-other_extensions']['ja-jp'] = "その他の拡張子";
 $text['label-other_extensions']['ko-kr'] = "기타 확장";
 
@@ -374,7 +374,7 @@ $text['label-no_extensions_found']['ru-ru'] = "Внутренних номеро
 $text['label-no_extensions_found']['sv-se'] = "Ingen anknytning funnen.";
 $text['label-no_extensions_found']['uk-ua'] = "Не знайдено розширення.";
 $text['label-no_extensions_found']['tr-tr'] = "Uzantı bulunamadı.";
-$text['label-no_extensions_found']['zh-cn'] = "未找到扩展。";
+$text['label-no_extensions_found']['zh-cn'] = "未找到分机。";
 $text['label-no_extensions_found']['ja-jp'] = "拡張子が見つかりません。";
 $text['label-no_extensions_found']['ko-kr'] = "확장 프로그램이 없습니다.";
 

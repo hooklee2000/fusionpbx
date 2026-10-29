@@ -23,7 +23,7 @@ $text['title-bridges']['ru-ru'] = "Мосты";
 $text['title-bridges']['sv-se'] = "Bryggor";
 $text['title-bridges']['uk-ua'] = "Мости";
 $text['title-bridges']['tr-tr'] = "Köprüler";
-$text['title-bridges']['zh-cn'] = "桥梁";
+$text['title-bridges']['zh-cn'] = "桥接";
 $text['title-bridges']['ja-jp'] = "橋";
 $text['title-bridges']['ko-kr'] = "교량";
 
@@ -131,7 +131,7 @@ $text['label-bridge_name']['ru-ru'] = "Имя";
 $text['label-bridge_name']['sv-se'] = "namn";
 $text['label-bridge_name']['uk-ua'] = "Імя";
 $text['label-bridge_name']['tr-tr'] = "İsim";
-$text['label-bridge_name']['zh-cn'] = "姓名";
+$text['label-bridge_name']['zh-cn'] = "名称";
 $text['label-bridge_name']['ja-jp'] = "名前";
 $text['label-bridge_name']['ko-kr'] = "이름";
 
@@ -402,7 +402,7 @@ $text['label-bridge_profile']['ru-ru'] = "Профиль";
 $text['label-bridge_profile']['sv-se'] = "Profil";
 $text['label-bridge_profile']['uk-ua'] = "Профіль";
 $text['label-bridge_profile']['tr-tr'] = "Profil";
-$text['label-bridge_profile']['zh-cn'] = "轮廓";
+$text['label-bridge_profile']['zh-cn'] = "个人资料";
 $text['label-bridge_profile']['ja-jp'] = "プロフィール";
 $text['label-bridge_profile']['ko-kr'] = "프로필";
 

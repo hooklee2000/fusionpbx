@@ -455,7 +455,7 @@ $text['message-name']['ru-ru'] = "Пожалуйста укажите: Имя";
 $text['message-name']['sv-se'] = "Ange: Namn";
 $text['message-name']['uk-ua'] = "Будь ласка, заповніть: Ім'я";
 $text['message-name']['tr-tr'] = "Lütfen belirtin: Ad";
-$text['message-name']['zh-cn'] = "请提供：姓名";
+$text['message-name']['zh-cn'] = "请提供：名称";
 $text['message-name']['ja-jp'] = "入力してください: 名前";
 $text['message-name']['ko-kr'] = "제공하십시오: 이름";
 
@@ -833,7 +833,7 @@ $text['label-ring-group-extension']['ru-ru'] = "Группы вызовов вн
 $text['label-ring-group-extension']['sv-se'] = "Ringgrupp Anknytning";
 $text['label-ring-group-extension']['uk-ua'] = "Розширення групи з кільця";
 $text['label-ring-group-extension']['tr-tr'] = "Zil Grubu Uzantısı";
-$text['label-ring-group-extension']['zh-cn'] = "振铃组扩展";
+$text['label-ring-group-extension']['zh-cn'] = "振铃组分机";
 $text['label-ring-group-extension']['ja-jp'] = "リンググループの拡張";
 $text['label-ring-group-extension']['ko-kr'] = "전화 수신 그룹 확장";
 
@@ -914,7 +914,7 @@ $text['label-ring_group_follow_me_enabled']['ru-ru'] = "Подписывайте
 $text['label-ring_group_follow_me_enabled']['sv-se'] = "Följ mig";
 $text['label-ring_group_follow_me_enabled']['uk-ua'] = "Слідуй за мною";
 $text['label-ring_group_follow_me_enabled']['tr-tr'] = "Beni takip et";
-$text['label-ring_group_follow_me_enabled']['zh-cn'] = "跟我来";
+$text['label-ring_group_follow_me_enabled']['zh-cn'] = "转接";
 $text['label-ring_group_follow_me_enabled']['ja-jp'] = "フォローしてください";
 $text['label-ring_group_follow_me_enabled']['ko-kr'] = "나를 따르라";
 
@@ -1049,7 +1049,7 @@ $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
 $text['label-extension']['tr-tr'] = "Eklenti";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -1508,7 +1508,7 @@ $text['label-context']['ru-ru'] = "Контекст";
 $text['label-context']['sv-se'] = "Context";
 $text['label-context']['uk-ua'] = "Контекст";
 $text['label-context']['tr-tr'] = "Bağlam";
-$text['label-context']['zh-cn'] = "语境";
+$text['label-context']['zh-cn'] = "上下文";
 $text['label-context']['ja-jp'] = "コンテクスト";
 $text['label-context']['ko-kr'] = "문맥";
 

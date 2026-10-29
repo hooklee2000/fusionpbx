@@ -507,7 +507,7 @@ $text['description-user_agent']['ru-ru'] = "Введите пользовате�
 $text['description-user_agent']['sv-se'] = "Ange användaragenten.";
 $text['description-user_agent']['uk-ua'] = "Введіть агента користувача.";
 $text['description-user_agent']['tr-tr'] = "Kullanıcı aracısını girin.";
-$text['description-user_agent']['zh-cn'] = "进入用户代理人。";
+$text['description-user_agent']['zh-cn'] = "进入用户代理。";
 $text['description-user_agent']['ja-jp'] = "ユーザエージェントを入力してください。";
 $text['description-user_agent']['ko-kr'] = "사용자 에이전트를 입력하십시오.";
 

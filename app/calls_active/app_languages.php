@@ -22,7 +22,7 @@ $text['title-2']['ro-ro'] = "Extensii active";
 $text['title-2']['ru-ru'] = "Активные внутренние номера";
 $text['title-2']['sv-se'] = "Aktiva anknytningar";
 $text['title-2']['uk-ua'] = "Активні розширення";
-$text['title-2']['zh-cn'] = "活动扩展";
+$text['title-2']['zh-cn'] = "活动分机";
 $text['title-2']['ja-jp'] = "アクティブな拡張機能";
 $text['title-2']['ko-kr'] = "활성 확장";
 
@@ -126,7 +126,7 @@ $text['label-status']['ro-ro'] = "stare";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
-$text['label-status']['zh-cn'] = "地位";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['ja-jp'] = "スターテス";
 $text['label-status']['ko-kr'] = "상태";
 
@@ -256,7 +256,7 @@ $text['label-profile']['ro-ro'] = "Profil";
 $text['label-profile']['ru-ru'] = "Профиль";
 $text['label-profile']['sv-se'] = "Profil";
 $text['label-profile']['uk-ua'] = "Профіль";
-$text['label-profile']['zh-cn'] = "轮廓";
+$text['label-profile']['zh-cn'] = "个人资料";
 $text['label-profile']['ja-jp'] = "プロフィール";
 $text['label-profile']['ko-kr'] = "프로필";
 
@@ -464,7 +464,7 @@ $text['label-domain']['ro-ro'] = "Domeniu";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 

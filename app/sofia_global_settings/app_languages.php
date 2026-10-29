@@ -104,7 +104,7 @@ $text['label-global_setting_name']['ru-ru'] = "Имя";
 $text['label-global_setting_name']['sv-se'] = "Namnnamn";
 $text['label-global_setting_name']['uk-ua'] = "Ім'я";
 $text['label-global_setting_name']['tr-tr'] = "İsim";
-$text['label-global_setting_name']['zh-cn'] = "姓名";
+$text['label-global_setting_name']['zh-cn'] = "名称";
 $text['label-global_setting_name']['ja-jp'] = "名前";
 $text['label-global_setting_name']['ko-kr'] = "이름";
 
@@ -158,7 +158,7 @@ $text['label-global_setting_value']['ru-ru'] = "Стоимость";
 $text['label-global_setting_value']['sv-se'] = "Värde";
 $text['label-global_setting_value']['uk-ua'] = "Ціна";
 $text['label-global_setting_value']['tr-tr'] = "Değer";
-$text['label-global_setting_value']['zh-cn'] = "价值";
+$text['label-global_setting_value']['zh-cn'] = "值";
 $text['label-global_setting_value']['ja-jp'] = "価値";
 $text['label-global_setting_value']['ko-kr'] = "값";
 

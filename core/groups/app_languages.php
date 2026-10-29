@@ -23,7 +23,7 @@ $text['title-groups']['ru-ru'] = "Менеджер группы";
 $text['title-groups']['sv-se'] = "Grupp Inställningar";
 $text['title-groups']['uk-ua'] = "Менеджер групи";
 $text['title-groups']['tr-tr'] = "Grup Müdürü";
-$text['title-groups']['zh-cn'] = "集团经理";
+$text['title-groups']['zh-cn'] = "群组";
 $text['title-groups']['ja-jp'] = "グループマネージャー";
 $text['title-groups']['ko-kr'] = "그룹 관리자";
 
@@ -50,7 +50,7 @@ $text['title-group']['ru-ru'] = "Менеджер группы";
 $text['title-group']['sv-se'] = "Grupp Inställningar";
 $text['title-group']['uk-ua'] = "Менеджер групи";
 $text['title-group']['tr-tr'] = "Grup Müdürü";
-$text['title-group']['zh-cn'] = "集团经理";
+$text['title-group']['zh-cn'] = "群组";
 $text['title-group']['ja-jp'] = "グループマネージャー";
 $text['title-group']['ko-kr'] = "그룹 관리자";
 
@@ -1076,7 +1076,7 @@ $text['label-status']['ru-ru'] = "Положение дел";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 $text['label-status']['tr-tr'] = "Durum";
-$text['label-status']['zh-cn'] = "地位";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['ja-jp'] = "スターテス";
 $text['label-status']['ko-kr'] = "상태";
 
@@ -1508,7 +1508,7 @@ $text['label-groups']['ru-ru'] = "Группы";
 $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['uk-ua'] = "Групи";
 $text['label-groups']['tr-tr'] = "Gruplar";
-$text['label-groups']['zh-cn'] = "团体";
+$text['label-groups']['zh-cn'] = "群组";
 $text['label-groups']['ja-jp'] = "グループ";
 $text['label-groups']['ko-kr'] = "여러 떼";
 
@@ -1616,7 +1616,7 @@ $text['label-group_name']['ru-ru'] = "Название";
 $text['label-group_name']['sv-se'] = "Namn";
 $text['label-group_name']['uk-ua'] = "Назва";
 $text['label-group_name']['tr-tr'] = "İsim";
-$text['label-group_name']['zh-cn'] = "姓名";
+$text['label-group_name']['zh-cn'] = "名称";
 $text['label-group_name']['ja-jp'] = "名前";
 $text['label-group_name']['ko-kr'] = "이름";
 
@@ -1697,7 +1697,7 @@ $text['description-group_level']['ru-ru'] = "Выберите групповой
 $text['description-group_level']['sv-se'] = "Välj gruppordningen.";
 $text['description-group_level']['uk-ua'] = "Виберіть груповий порядок.";
 $text['description-group_level']['tr-tr'] = "Grup sırasını seçin.";
-$text['description-group_level']['zh-cn'] = "选择团体订单。";
+$text['description-group_level']['zh-cn'] = "选择群组订单。";
 $text['description-group_level']['ja-jp'] = "グループの順序を選択します。";
 $text['description-group_level']['ko-kr'] = "그룹 주문을 선택합니다.";
 
@@ -1751,7 +1751,7 @@ $text['label-group']['ru-ru'] = "Группа";
 $text['label-group']['sv-se'] = "Grupp";
 $text['label-group']['uk-ua'] = "Група";
 $text['label-group']['tr-tr'] = "Grup";
-$text['label-group']['zh-cn'] = "团体";
+$text['label-group']['zh-cn'] = "群组";
 $text['label-group']['ja-jp'] = "グループ";
 $text['label-group']['ko-kr'] = "그룹";
 
@@ -1886,7 +1886,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -2399,7 +2399,7 @@ $text['header-group_manager']['ru-ru'] = "Управление группами"
 $text['header-group_manager']['sv-se'] = "Grupp Inställningar";
 $text['header-group_manager']['uk-ua'] = "Групи";
 $text['header-group_manager']['tr-tr'] = "Grup Müdürü";
-$text['header-group_manager']['zh-cn'] = "集团经理";
+$text['header-group_manager']['zh-cn'] = "群组";
 $text['header-group_manager']['ja-jp'] = "グループマネージャー";
 $text['header-group_manager']['ko-kr'] = "그룹 관리자";
 

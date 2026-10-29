@@ -134,6 +134,10 @@ class xml_cdr {
 	private $extension_map_time;
 
 	/**
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5.6
 	 * In-memory cache of the v_destinations rows used by find_app to avoid
 	 * re-querying the database on every call within a single request
 	 */
@@ -1448,8 +1452,15 @@ class xml_cdr {
 		//get the map of the domain names to their domain uuids
 		$domain_map = $this->get_domain_map();
 
+<<<<<<< HEAD
 		//resolve the domain uuids of each leg from the context values
 		$leg_domain_uuid_array = array();
+=======
+
+		//resolve the domain uuids of each leg from the context values
+		$leg_domain_uuid_array = array();
+
+>>>>>>> 5.6
 		foreach ($call_flow_array as $leg_index => $row) {
 			$leg_domain_uuid_array[$leg_index] = array();
 			//skip when the leg is not an array

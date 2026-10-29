@@ -212,7 +212,7 @@ $text['label-dashboard_name']['ru-ru'] = "Имя";
 $text['label-dashboard_name']['sv-se'] = "namn";
 $text['label-dashboard_name']['uk-ua'] = "Назва";
 $text['label-dashboard_name']['tr-tr'] = "İsim";
-$text['label-dashboard_name']['zh-cn'] = "姓名";
+$text['label-dashboard_name']['zh-cn'] = "名称";
 $text['label-dashboard_name']['ja-jp'] = "名前";
 $text['label-dashboard_name']['ko-kr'] = "이름";
 
@@ -374,7 +374,7 @@ $text['label-widget_name']['ru-ru'] = "Имя";
 $text['label-widget_name']['sv-se'] = "namn";
 $text['label-widget_name']['uk-ua'] = "Назва";
 $text['label-widget_name']['tr-tr'] = "İsim";
-$text['label-widget_name']['zh-cn'] = "姓名";
+$text['label-widget_name']['zh-cn'] = "名称";
 $text['label-widget_name']['ja-jp'] = "名前";
 $text['label-widget_name']['ko-kr'] = "이름";
 
@@ -698,7 +698,7 @@ $text['label-widget_groups']['ru-ru'] = "Группы";
 $text['label-widget_groups']['sv-se'] = "Grupper";
 $text['label-widget_groups']['uk-ua'] = "Групи";
 $text['label-widget_groups']['tr-tr'] = "Gruplar";
-$text['label-widget_groups']['zh-cn'] = "团体";
+$text['label-widget_groups']['zh-cn'] = "群组";
 $text['label-widget_groups']['ja-jp'] = "グループ";
 $text['label-widget_groups']['ko-kr'] = "여러 떼";
 

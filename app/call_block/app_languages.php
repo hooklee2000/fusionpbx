@@ -23,7 +23,7 @@ $text['title-call_block']['ru-ru'] = "Черный список";
 $text['title-call_block']['sv-se'] = "Blockera samtal";
 $text['title-call_block']['uk-ua'] = "Блокування дзвінків";
 $text['title-call_block']['tr-tr'] = "Çağrı Engelleme";
-$text['title-call_block']['zh-cn'] = "呼叫块";
+$text['title-call_block']['zh-cn'] = "阻止呼叫";
 $text['title-call_block']['ja-jp'] = "コールブロック";
 $text['title-call_block']['ko-kr'] = "통화 차단";
 
@@ -185,7 +185,7 @@ $text['label-provide-name']['ru-ru'] = "Пожалуйста, введите: И
 $text['label-provide-name']['sv-se'] = "Ange: Namn";
 $text['label-provide-name']['uk-ua'] = "Введіть назву";
 $text['label-provide-name']['tr-tr'] = "Lütfen belirtin: Ad";
-$text['label-provide-name']['zh-cn'] = "请提供：姓名";
+$text['label-provide-name']['zh-cn'] = "请提供：名称";
 $text['label-provide-name']['ja-jp'] = "入力してください: 名前";
 $text['label-provide-name']['ko-kr'] = "제공하십시오: 이름";
 
@@ -450,7 +450,7 @@ $text['label-inbound']['ru-ru'] = "Входящий";
 $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вихідний";
 $text['label-inbound']['tr-tr'] = "Gelen";
-$text['label-inbound']['zh-cn'] = "入境";
+$text['label-inbound']['zh-cn'] = "呼出";
 $text['label-inbound']['ja-jp'] = "インバウンド";
 $text['label-inbound']['ko-kr'] = "인바운드";
 
@@ -476,7 +476,7 @@ $text['label-outbound']['ru-ru'] = "Исходящие";
 $text['label-outbound']['sv-se'] = "Utgående";
 $text['label-outbound']['uk-ua'] = "Вихідний";
 $text['label-outbound']['tr-tr'] = "Giden";
-$text['label-outbound']['zh-cn'] = "出站";
+$text['label-outbound']['zh-cn'] = "呼出";
 $text['label-outbound']['ja-jp'] = "アウトバウンド";
 $text['label-outbound']['ko-kr'] = "배 밖으로";
 
@@ -556,7 +556,7 @@ $text['label-edit-edit']['ru-ru'] = "Черный список";
 $text['label-edit-edit']['sv-se'] = "Blockera samtal";
 $text['label-edit-edit']['uk-ua'] = "Блокування дзвінків";
 $text['label-edit-edit']['tr-tr'] = "Çağrı Engelleme";
-$text['label-edit-edit']['zh-cn'] = "呼叫块";
+$text['label-edit-edit']['zh-cn'] = "阻止呼叫";
 $text['label-edit-edit']['ja-jp'] = "コール ブロック";
 $text['label-edit-edit']['ko-kr'] = "통화 차단";
 
@@ -583,7 +583,7 @@ $text['label-edit-add']['ru-ru'] = "Черный список";
 $text['label-edit-add']['sv-se'] = "Blockera samtal";
 $text['label-edit-add']['uk-ua'] = "Блокування дзвінків";
 $text['label-edit-add']['tr-tr'] = "Çağrı Engelleme";
-$text['label-edit-add']['zh-cn'] = "呼叫块";
+$text['label-edit-add']['zh-cn'] = "阻止呼叫";
 $text['label-edit-add']['ja-jp'] = "コール ブロック";
 $text['label-edit-add']['ko-kr'] = "통화 차단";
 
@@ -691,7 +691,7 @@ $text['label-count']['ru-ru'] = "Количество";
 $text['label-count']['sv-se'] = "Räkna";
 $text['label-count']['uk-ua'] = "Кількість";
 $text['label-count']['tr-tr'] = "Saymak";
-$text['label-count']['zh-cn'] = "数数";
+$text['label-count']['zh-cn'] = "个数";
 $text['label-count']['ja-jp'] = "カウント";
 $text['label-count']['ko-kr'] = "세다";
 
@@ -745,7 +745,7 @@ $text['label-busy']['ru-ru'] = "Занято";
 $text['label-busy']['sv-se'] = "Upptagen";
 $text['label-busy']['uk-ua'] = "Зайнято";
 $text['label-busy']['tr-tr'] = "Meşgul";
-$text['label-busy']['zh-cn'] = "忙碌的";
+$text['label-busy']['zh-cn'] = "忙线";
 $text['label-busy']['ja-jp'] = "忙しい";
 $text['label-busy']['ko-kr'] = "바쁘다";
 
@@ -852,7 +852,7 @@ $text['label-add-note']['ru-ru'] = "Блокировка вызовов от н�
 $text['label-add-note']['sv-se'] = "Blockera samtal från ett nummer. Välj antingen ett nummer från listan ovan eller fyll i nummer, namn och aktivera nedan.";
 $text['label-add-note']['uk-ua'] = "Блокувати дзвінки з номера. Або вибрати номер зі списку вище або введіть номер, ім'я і включити нижче.";
 $text['label-add-note']['tr-tr'] = "Bir numaradan gelen aramaları engelleyin. Yukarıdaki listeden bir numara seçin veya numarayı, adı girin ve aşağıya etkinleştirin.";
-$text['label-add-note']['zh-cn'] = "阻止来自某个号码的呼叫。 从上面的列表中选择一个号码，或者在下面输入号码、姓名并启用。";
+$text['label-add-note']['zh-cn'] = "阻止来自某个号码的呼叫。 从上面的列表中选择一个号码，或者在下面输入号码、名称并启用。";
 $text['label-add-note']['ja-jp'] = "番号からの通話をブロックします。 上のリストから番号を選択するか、番号、名前、有効化を下に入力します。";
 $text['label-add-note']['ko-kr'] = "번호에서 오는 전화를 차단합니다. 위 목록에서 번호를 선택하거나 번호, 이름을 입력하고 아래에 활성화하십시오.";
 

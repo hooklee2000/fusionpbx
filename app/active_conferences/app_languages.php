@@ -698,7 +698,7 @@ $text['label-mute']['ru-ru'] = "Отключить микрофон";
 $text['label-mute']['sv-se'] = "Stäng av mikrofon";
 $text['label-mute']['uk-ua'] = "Вимкнути звук";
 $text['label-mute']['tr-tr'] = "Sesini kapatmak";
-$text['label-mute']['zh-cn'] = "沉默的";
+$text['label-mute']['zh-cn'] = "静音";
 $text['label-mute']['ja-jp'] = "無音";
 $text['label-mute']['ko-kr'] = "무음";
 

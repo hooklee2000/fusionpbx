@@ -1426,7 +1426,7 @@ $text['label-status']['ro-ro'] = "stare";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
-$text['label-status']['zh-cn'] = "地位";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['ja-jp'] = "スターテス";
 $text['label-status']['ko-kr'] = "상태";
 
@@ -1660,7 +1660,7 @@ $text['label-music_on_hold']['ro-ro'] = "Muzică în așteptare";
 $text['label-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['label-music_on_hold']['sv-se'] = "Väntmusik";
 $text['label-music_on_hold']['uk-ua'] = "Мелодія на утримуванні";
-$text['label-music_on_hold']['zh-cn'] = "保留音乐";
+$text['label-music_on_hold']['zh-cn'] = "等待音乐";
 $text['label-music_on_hold']['ja-jp'] = "保留音";
 $text['label-music_on_hold']['ko-kr'] = "음악 보류";
 
@@ -1790,7 +1790,7 @@ $text['label-extension']['ro-ro'] = "Extensie";
 $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 
@@ -1920,7 +1920,7 @@ $text['label-outbound_caller_id_name']['ro-ro'] = "Nume ID apelant de ieșire";
 $text['label-outbound_caller_id_name']['ru-ru'] = "Идентификатор (Caller ID) имени вызывающего абонента";
 $text['label-outbound_caller_id_name']['sv-se'] = "Utgående namnpresentation";
 $text['label-outbound_caller_id_name']['uk-ua'] = "Ім'я ідентифікатора абонента вихідної пошти";
-$text['label-outbound_caller_id_name']['zh-cn'] = "出站来电显示名称";
+$text['label-outbound_caller_id_name']['zh-cn'] = "呼出来电显示名称";
 $text['label-outbound_caller_id_name']['ja-jp'] = "発信者 ID 名";
 $text['label-outbound_caller_id_name']['ko-kr'] = "아웃바운드 발신자 ID 이름";
 
@@ -2310,7 +2310,7 @@ $text['label-agent']['ro-ro'] = "Agent";
 $text['label-agent']['ru-ru'] = "Оператор";
 $text['label-agent']['sv-se'] = "Agent";
 $text['label-agent']['uk-ua'] = "Оператор";
-$text['label-agent']['zh-cn'] = "代理人";
+$text['label-agent']['zh-cn'] = "代理";
 $text['label-agent']['ja-jp'] = "エージェント";
 $text['label-agent']['ko-kr'] = "대리인";
 
@@ -3090,7 +3090,7 @@ $text['description-no_answer_delay_time']['ro-ro'] = "Introduceți timpul de în
 $text['description-no_answer_delay_time']['ru-ru'] = "Введите время задержки агента при отсутствии ответа в секундах. Как долго система будет ждать, прежде чем повторить попытку вызова не ответившего агента.";
 $text['description-no_answer_delay_time']['sv-se'] = "Ange agenten inget svar fördröjningstid i sekunder. Hur länge systemet kommer att vänta innan det återförsöker ett samtal till en agent som inte har svarat.";
 $text['description-no_answer_delay_time']['uk-ua'] = "Введіть час затримки відсутності відповіді агента в секундах. Скільки часу система чекатиме перед повторною спробою виклику агента, який не відповів.";
-$text['description-no_answer_delay_time']['zh-cn'] = "输入客服人员无应答延迟时间（以秒为单位）。 系统在重新尝试呼叫尚未应答的座席之前将等待多长时间。";
+$text['description-no_answer_delay_time']['zh-cn'] = "输入客服人员无应答延迟时间（以秒为单位）。 系统在重新尝试呼叫尚无应答的座席之前将等待多长时间。";
 $text['description-no_answer_delay_time']['ja-jp'] = "エージェントの無応答遅延時間を秒単位で入力します。 応答しなかったエージェントへの通話を再試行するまでにシステムが待機する時間。";
 $text['description-no_answer_delay_time']['ko-kr'] = "상담원 무응답 지연 시간을 초 단위로 입력하세요. 응답하지 않은 상담원에게 전화를 다시 시도하기 전에 시스템이 기다리는 시간입니다.";
 

@@ -158,7 +158,7 @@ $text['label-sounds']['ru-ru'] = "Звуки";
 $text['label-sounds']['sv-se'] = "Ljud";
 $text['label-sounds']['uk-ua'] = "звуки";
 $text['label-sounds']['tr-tr'] = "Sesler";
-$text['label-sounds']['zh-cn'] = "固体";
+$text['label-sounds']['zh-cn'] = "声音";
 $text['label-sounds']['ja-jp'] = "サウンド";
 $text['label-sounds']['ko-kr'] = "언어 선택";
 
@@ -590,7 +590,7 @@ $text['description-enabled']['ru-ru'] = "Установите статус фр�
 $text['description-enabled']['sv-se'] = "Välj status på frasen.";
 $text['description-enabled']['uk-ua'] = "Вкажіть статус для фрази";
 $text['description-enabled']['tr-tr'] = "İfadenin durumunu ayarlayın.";
-$text['description-enabled']['zh-cn'] = "2. 确定该短语的地位。";
+$text['description-enabled']['zh-cn'] = "2. 确定该短语的状态。";
 $text['description-enabled']['ja-jp'] = "フレーズの状態を設定します。";
 $text['description-enabled']['ko-kr'] = "구문의 상태를 설정합니다.";
 

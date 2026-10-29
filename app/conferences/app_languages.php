@@ -152,7 +152,7 @@ $text['table-name']['ro-ro'] = "Nume";
 $text['table-name']['ru-ru'] = "Имя";
 $text['table-name']['sv-se'] = "Namn";
 $text['table-name']['uk-ua'] = "Ім'я";
-$text['table-name']['zh-cn'] = "姓名";
+$text['table-name']['zh-cn'] = "名称";
 $text['table-name']['ja-jp'] = "名前";
 $text['table-name']['ko-kr'] = "이름";
 
@@ -178,7 +178,7 @@ $text['table-extension']['ro-ro'] = "Extensie";
 $text['table-extension']['ru-ru'] = "Внутренний Номер";
 $text['table-extension']['sv-se'] = "Anknytning";
 $text['table-extension']['uk-ua'] = "Розширення";
-$text['table-extension']['zh-cn'] = "扩大";
+$text['table-extension']['zh-cn'] = "分机";
 $text['table-extension']['ja-jp'] = "拡大";
 $text['table-extension']['ko-kr'] = "확대";
 
@@ -204,7 +204,7 @@ $text['table-profile']['ro-ro'] = "Profil";
 $text['table-profile']['ru-ru'] = "Профиль";
 $text['table-profile']['sv-se'] = "Profil";
 $text['table-profile']['uk-ua'] = "Профіль";
-$text['table-profile']['zh-cn'] = "轮廓";
+$text['table-profile']['zh-cn'] = "个人资料";
 $text['table-profile']['ja-jp'] = "プロフィール";
 $text['table-profile']['ko-kr'] = "프로필";
 
@@ -360,7 +360,7 @@ $text['confirm-name']['ro-ro'] = "Vă rugăm să furnizați: Nume";
 $text['confirm-name']['ru-ru'] = "Просьба указать: ФИО";
 $text['confirm-name']['sv-se'] = "Var god ange: Namn";
 $text['confirm-name']['uk-ua'] = "Будь ласка, вкажіть: Ім'я";
-$text['confirm-name']['zh-cn'] = "请提供：姓名";
+$text['confirm-name']['zh-cn'] = "请提供：名称";
 $text['confirm-name']['ja-jp'] = "入力してください: 名前";
 $text['confirm-name']['ko-kr'] = "제공하십시오: 이름";
 
@@ -386,7 +386,7 @@ $text['confirm-extension']['ro-ro'] = "Vă rugăm să furnizați: Extensie";
 $text['confirm-extension']['ru-ru'] = "Просьба указать: Внутренний Номер";
 $text['confirm-extension']['sv-se'] = "Var god ange: Anknytning";
 $text['confirm-extension']['uk-ua'] = "Будь ласка, надайте: Розширення";
-$text['confirm-extension']['zh-cn'] = "请提供：延期";
+$text['confirm-extension']['zh-cn'] = "请提供：分机";
 $text['confirm-extension']['ja-jp'] = "提供してください: 拡張子";
 $text['confirm-extension']['ko-kr'] = "제공하십시오: 내선";
 
@@ -516,7 +516,7 @@ $text['label-extension']['ro-ro'] = "Extensie";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Extension";
-$text['label-extension']['zh-cn'] = "扩大";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['ja-jp'] = "拡大";
 $text['label-extension']['ko-kr'] = "확대";
 

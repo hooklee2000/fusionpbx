@@ -77,7 +77,7 @@ $text['title_description-email_template']['ru-ru'] = "Определение и 
 $text['title_description-email_template']['sv-se'] = "Definiera och hantera dynamiska mallar som används för systemgenererade utgående e-postmeddelanden.";
 $text['title_description-email_template']['uk-ua'] = "Визначте та управляти динамічними шаблонами, які використовуються для системи, створених для вихідних електронних листів.";
 $text['title_description-email_template']['tr-tr'] = "Sistem tarafından oluşturulan giden e-postalar için kullanılan dinamik şablonları tanımlayın ve yönetin.";
-$text['title_description-email_template']['zh-cn'] = "定义和管理用于系统生成的出站电子邮件的动态模板。";
+$text['title_description-email_template']['zh-cn'] = "定义和管理用于系统生成的呼出电子邮件的动态模板。";
 $text['title_description-email_template']['ja-jp'] = "システム生成のアウトバウンド電子メールに使用される動的テンプレートを定義および管理します。";
 $text['title_description-email_template']['ko-kr'] = "시스템 생성 아웃바운드 이메일에 사용되는 동적 템플릿을 정의하고 관리합니다.";
 

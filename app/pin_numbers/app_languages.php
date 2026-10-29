@@ -428,7 +428,7 @@ $text['button-save']['ru-ru'] = "Сохранить";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "Зберегти";
 $text['button-save']['tr-tr'] = "Kaydetmek";
-$text['button-save']['zh-cn'] = "节省";
+$text['button-save']['zh-cn'] = "保存";
 $text['button-save']['ja-jp'] = "保存";
 $text['button-save']['ko-kr'] = "구하다";
 

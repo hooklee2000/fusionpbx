@@ -186,7 +186,7 @@ $text['label-domain_name']['ru-ru'] = "Имя";
 $text['label-domain_name']['sv-se'] = "Namn";
 $text['label-domain_name']['uk-ua'] = "Назва";
 $text['label-domain_name']['tr-tr'] = "İsim";
-$text['label-domain_name']['zh-cn'] = "姓名";
+$text['label-domain_name']['zh-cn'] = "名称";
 $text['label-domain_name']['ja-jp'] = "名前";
 $text['label-domain_name']['ko-kr'] = "이름";
 
@@ -916,7 +916,7 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 $text['label-domain']['tr-tr'] = "İhtisas";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "域名";
 $text['label-domain']['ja-jp'] = "ドメイン";
 $text['label-domain']['ko-kr'] = "도메인";
 
@@ -1078,7 +1078,7 @@ $text['label-time_zone']['ru-ru'] = "Часовой пояс";
 $text['label-time_zone']['sv-se'] = "Tidszon";
 $text['label-time_zone']['uk-ua'] = "Часовий пояс";
 $text['label-time_zone']['tr-tr'] = "Saat dilimi";
-$text['label-time_zone']['zh-cn'] = "时间区";
+$text['label-time_zone']['zh-cn'] = "时区";
 $text['label-time_zone']['ja-jp'] = "タイムゾーン";
 $text['label-time_zone']['ko-kr'] = "시간대";
 
@@ -1240,7 +1240,7 @@ $text['header-domain']['ru-ru'] = "Домен";
 $text['header-domain']['sv-se'] = "Domän";
 $text['header-domain']['uk-ua'] = "Домен";
 $text['header-domain']['tr-tr'] = "İhtisas";
-$text['header-domain']['zh-cn'] = "领域";
+$text['header-domain']['zh-cn'] = "域名";
 $text['header-domain']['ja-jp'] = "ドメイン";
 $text['header-domain']['ko-kr'] = "도메인";
 

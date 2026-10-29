@@ -1180,7 +1180,7 @@ $text['label-agent']['ru-ru'] = "Оператор";
 $text['label-agent']['sv-se'] = "Agent";
 $text['label-agent']['uk-ua'] = "Оператор";
 $text['label-agent']['tr-tr'] = "Agent";
-$text['label-agent']['zh-cn'] = "代理人";
+$text['label-agent']['zh-cn'] = "代理";
 $text['label-agent']['ja-jp'] = "エージェント";
 $text['label-agent']['ko-kr'] = "대리인";
 

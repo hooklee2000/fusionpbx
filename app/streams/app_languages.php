@@ -23,7 +23,7 @@ $text['title-streams']['ru-ru'] = "Потоки";
 $text['title-streams']['sv-se'] = "Strömmar";
 $text['title-streams']['uk-ua'] = "Потоки";
 $text['title-streams']['tr-tr'] = "Canlı Yayınlar";
-$text['title-streams']['zh-cn'] = "溪流";
+$text['title-streams']['zh-cn'] = "流式处理";
 $text['title-streams']['ja-jp'] = "ストリーム";
 $text['title-streams']['ko-kr'] = "스트림";
 
@@ -50,7 +50,7 @@ $text['title-stream']['ru-ru'] = "Транслировать";
 $text['title-stream']['sv-se'] = "Ström";
 $text['title-stream']['uk-ua'] = "Потік";
 $text['title-stream']['tr-tr'] = "Aktarım";
-$text['title-stream']['zh-cn'] = "溪流";
+$text['title-stream']['zh-cn'] = "流式处理";
 $text['title-stream']['ja-jp'] = "ストリーム";
 $text['title-stream']['ko-kr'] = "스트림";
 
@@ -104,7 +104,7 @@ $text['label-stream_name']['ru-ru'] = "Имя";
 $text['label-stream_name']['sv-se'] = "namn";
 $text['label-stream_name']['uk-ua'] = "Ім'я";
 $text['label-stream_name']['tr-tr'] = "İsim";
-$text['label-stream_name']['zh-cn'] = "姓名";
+$text['label-stream_name']['zh-cn'] = "名称";
 $text['label-stream_name']['ja-jp'] = "お名前";
 $text['label-stream_name']['ko-kr'] = "이름";
 
@@ -131,7 +131,7 @@ $text['description-stream_name']['ru-ru'] = "Введите имя.";
 $text['description-stream_name']['sv-se'] = "Ange namnet.";
 $text['description-stream_name']['uk-ua'] = "Введіть назву.";
 $text['description-stream_name']['tr-tr'] = "Adı girin.";
-$text['description-stream_name']['zh-cn'] = "填写姓名。";
+$text['description-stream_name']['zh-cn'] = "填写名称。";
 $text['description-stream_name']['ja-jp'] = "お名前を入力してください。";
 $text['description-stream_name']['ko-kr'] = "이름 입력";
 
